@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2015-06-27T19:29:02Z"/>
+
+  <node id="280489365" lat="34.2763110" lon="135.1469790" version="4" timestamp="2015-02-13T05:43:19Z" changeset="28813559" uid="651065" user="futurumspes">
+    <tag k="KSJ2:INT" v="4"/>
+    <tag k="KSJ2:INT_label" v="民営鉄道"/>
+    <tag k="KSJ2:LIN" v="南海本線"/>
+    <tag k="KSJ2:OPC" v="南海電気鉄道"/>
+    <tag k="KSJ2:RAC" v="12"/>
+    <tag k="KSJ2:RAC_label" v="普通鉄道"/>
+    <tag k="KSJ2:coordinate" v="34.276311 135.146979"/>
+    <tag k="KSJ2:lat" v="34.276311"/>
+    <tag k="KSJ2:long" v="135.146979"/>
+    <tag k="name" v="和歌山大学前"/>
+    <tag k="name:en" v="Wakayamadaigakumae"/>
+    <tag k="name:ja" v="和歌山大学前"/>
+    <tag k="note" v="National-Land Numerical Information (Railway) 2007, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（鉄道データ）平成19年　国土交通省"/>
+    <tag k="railway" v="station"/>
+    <tag k="source" v="Survey"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"/>
+    <tag k="wikipedia" v="ja:和歌山大学前駅"/>
+  </node>
+  <node id="280489570" lat="34.2547386" lon="135.1663365" version="3" timestamp="2015-02-13T05:43:23Z" changeset="28813559" uid="651065" user="futurumspes">
+    <tag k="KSJ2:INT" v="4"/>
+    <tag k="KSJ2:INT_label" v="民営鉄道"/>
+    <tag k="KSJ2:LIN" v="南海本線"/>
+    <tag k="KSJ2:OPC" v="南海電気鉄道"/>
+    <tag k="KSJ2:RAC" v="12"/>
+    <tag k="KSJ2:RAC_label" v="普通鉄道"/>
+    <tag k="KSJ2:STN" v="紀ノ川"/>
+    <tag k="KSJ2:coordinate" v="34.254729 135.166367"/>
+    <tag k="KSJ2:lat" v="34.254729"/>
+    <tag k="KSJ2:long" v="135.166367"/>
+    <tag k="name" v="紀ノ川"/>
+    <tag k="name:ja" v="紀ノ川"/>
+    <tag k="note" v="National-Land Numerical Information (Railway) 2007, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（鉄道データ）平成19年　国土交通省"/>
+    <tag k="railway" v="station"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"/>
+    <tag k="wikipedia" v="ja:紀ノ川駅"/>
+  </node>
+  <node id="360072596" lat="34.2547290" lon="135.1663670" version="4" timestamp="2015-02-13T05:43:23Z" changeset="28813559" uid="651065" user="futurumspes">
+    <tag k="KSJ2:INT" v="4"/>
+    <tag k="KSJ2:INT_label" v="民営鉄道"/>
+    <tag k="KSJ2:LIN" v="加太線"/>
+    <tag k="KSJ2:OPC" v="南海電気鉄道"/>
+    <tag k="KSJ2:RAC" v="12"/>
+    <tag k="KSJ2:RAC_label" v="普通鉄道"/>
+    <tag k="KSJ2:STN" v="紀ノ川"/>
+    <tag k="KSJ2:coordinate" v="34.254729 135.166367"/>
+    <tag k="KSJ2:lat" v="34.254729"/>
+    <tag k="KSJ2:long" v="135.166367"/>
+    <tag k="name" v="紀ノ川"/>
+    <tag k="name:en" v="Kinokawa"/>
+    <tag k="name:ja" v="紀ノ川"/>
+    <tag k="name:ja_rm" v="Kinokawa"/>
+    <tag k="note" v="National-Land Numerical Information (Railway) 2007, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（鉄道データ）平成19年　国土交通省"/>
+    <tag k="railway" v="station"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"/>
+    <tag k="wikipedia" v="ja:紀ノ川駅"/>
+  </node>
+  <node id="1423043573" lat="34.2531310" lon="135.1631720" version="1" timestamp="2011-09-04T13:54:22Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="梶取20-1"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県和歌山市"/>
+    <tag k="KSJ2:PubFacAdmin" v="民間"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="かんどり保育園"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423044086" lat="34.2547690" lon="135.1474220" version="1" timestamp="2011-09-04T13:54:42Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="次郎丸107-1"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県和歌山市"/>
+    <tag k="KSJ2:PubFacAdmin" v="民間"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="じろうまる保育園"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423056151" lat="34.2536300" lon="135.1462000" version="1" timestamp="2011-09-04T14:03:24Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="延寺"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県和歌山市"/>
+    <tag k="KSJ2:PubFacAdmin" v="都道府県"/>
+    <tag k="amenity" v="police"/>
+    <tag k="name" v="和歌山北警察署延寺交番"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423056154" lat="34.2596020" lon="135.1715870" version="1" timestamp="2011-09-04T14:03:25Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="大谷"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県和歌山市"/>
+    <tag k="KSJ2:PubFacAdmin" v="都道府県"/>
+    <tag k="amenity" v="police"/>
+    <tag k="name" v="和歌山北警察署楠見交番"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423056160" lat="34.2580470" lon="135.1514770" version="1" timestamp="2011-09-04T14:03:26Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="向6-7"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県和歌山市"/>
+    <tag k="KSJ2:PubFacAdmin" v="その他"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="name" v="和歌山向郵便局"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423056258" lat="34.2668682" lon="135.1514642" version="5" timestamp="2012-04-20T10:20:01Z" changeset="11362391" uid="662183" user="tzuchiya">
+    <tag k="KSJ2:ADS" v="栄谷930"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県和歌山市"/>
+    <tag k="KSJ2:PubFacAdmin" v="国"/>
+    <tag k="amenity" v="university"/>
+    <tag k="building" v="school"/>
+    <tag k="name" v="和歌山大学(Wakayama University)"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423056299" lat="34.2634620" lon="135.1345900" version="2" timestamp="2012-02-12T14:15:41Z" changeset="10663005" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="木ノ本728-1"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県和歌山市"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="name" v="和歌山市立木ノ本児童館"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423056423" lat="34.2602960" lon="135.1589770" version="1" timestamp="2011-09-04T14:03:45Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="栄谷639"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県和歌山市"/>
+    <tag k="KSJ2:PubFacAdmin" v="その他"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="name" v="和歌山栄谷簡易郵便局"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423063585" lat="34.2598840" lon="135.1656390" version="2" timestamp="2012-02-12T14:22:04Z" changeset="10663005" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="平井67-4"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県和歌山市"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="name" v="市立平井児童館"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423064403" lat="34.2517140" lon="135.1351180" version="1" timestamp="2011-09-04T14:13:47Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="松江北4-1-1"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県和歌山市"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="市立松江小学校"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423064494" lat="34.2574640" lon="135.1675880" version="1" timestamp="2011-09-04T14:13:56Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="市小路31"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県和歌山市"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="市立楠見西小学校"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423065242" lat="34.2513250" lon="135.1639770" version="1" timestamp="2011-09-04T14:14:48Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="福島135-4"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県和歌山市"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="市立福島小学校"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423065854" lat="34.2676290" lon="135.1435330" version="1" timestamp="2011-09-04T14:15:32Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="梅原579-2"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県和歌山市"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="市立貴志中学校"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423065855" lat="34.2568240" lon="135.1398670" version="1" timestamp="2011-09-04T14:15:32Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="中野11-1"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県和歌山市"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="市立貴志南小学校"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423065865" lat="34.2599630" lon="135.1502550" version="1" timestamp="2011-09-04T14:15:32Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="栄谷895-2"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県和歌山市"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="市立貴志小学校"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423066048" lat="34.2510470" lon="135.1516170" version="1" timestamp="2011-09-04T14:15:42Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="梶取301-3"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県和歌山市"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="市立野崎西小学校"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423069909" lat="34.2585750" lon="135.1614210" version="1" timestamp="2011-09-04T14:20:41Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="栄谷428-3"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県和歌山市"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="栄谷保育所"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423070910" lat="34.2567410" lon="135.1336460" version="1" timestamp="2011-09-04T14:22:03Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="榎原26-2"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県和歌山市"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="河西保育所"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423077514" lat="34.2548250" lon="135.1700040" version="1" timestamp="2011-09-04T14:28:28Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="市小路388"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県和歌山市"/>
+    <tag k="KSJ2:PubFacAdmin" v="都道府県"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="県立和歌山北高等学校"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423088458" lat="34.2556300" lon="135.1670320" version="1" timestamp="2011-09-04T14:35:45Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="市小路64"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県和歌山市"/>
+    <tag k="KSJ2:PubFacAdmin" v="その他"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="name" v="紀ノ川駅前郵便局"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423089469" lat="34.2528800" lon="135.1399780" version="1" timestamp="2011-09-04T14:36:52Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="土入176"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県和歌山市"/>
+    <tag k="KSJ2:PubFacAdmin" v="民間"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="name" v="良友会西和歌山病院"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423092567" lat="34.2530190" lon="135.1605330" version="1" timestamp="2011-09-04T14:40:41Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="梶取86"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県和歌山市"/>
+    <tag k="KSJ2:PubFacAdmin" v="民間"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="野崎幼稚園"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1722523088" lat="34.2649130" lon="135.1497690" version="4" timestamp="2013-04-17T06:36:09Z" changeset="15758830" uid="27099" user="MAPconcierge">
+    <tag k="bus" v="yes"/>
+    <tag k="covered" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="和歌山大学(Wakayamadaigaku)"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="source" v="Survey"/>
+  </node>
+  <node id="1722600623" lat="34.2641719" lon="135.1517305" version="1" timestamp="2012-04-19T07:34:40Z" changeset="11351305" uid="662183" user="tzuchiya">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="第一食堂"/>
+    <tag k="source" v="Survey"/>
+  </node>
+  <node id="1722600643" lat="34.2675501" lon="135.1510278" version="1" timestamp="2012-04-19T07:34:40Z" changeset="11351305" uid="662183" user="tzuchiya">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="GENKI食堂"/>
+    <tag k="source" v="Survey"/>
+  </node>
+  <node id="1722600656" lat="34.2642958" lon="135.1517737" version="1" timestamp="2012-04-19T07:34:41Z" changeset="11351305" uid="662183" user="tzuchiya">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="第二食堂"/>
+    <tag k="source" v="Survey"/>
+  </node>
+  <node id="1722600894" lat="34.2673770" lon="135.1509422" version="1" timestamp="2012-04-19T07:34:49Z" changeset="11351305" uid="662183" user="tzuchiya">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="フルール"/>
+    <tag k="source" v="Survey"/>
+  </node>
+  <node id="1722677422" lat="34.2754653" lon="135.1472343" version="2" timestamp="2012-04-22T04:08:52Z" changeset="11379866" uid="662183" user="tzuchiya">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="和歌山大学前駅(Wakayamadaigakumaeeki)"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="source" v="Survey"/>
+  </node>
+  <node id="1722677428" lat="34.2669361" lon="135.1467569" version="2" timestamp="2012-04-22T04:08:52Z" changeset="11379866" uid="662183" user="tzuchiya">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="大学口(Daigakuguchi)"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="source" v="Survey"/>
+  </node>
+  <node id="1722677437" lat="34.2661115" lon="135.1491709" version="2" timestamp="2012-04-22T04:08:52Z" changeset="11379866" uid="662183" user="tzuchiya">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="大学門前(Daigakumonmae)"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="source" v="Survey"/>
+  </node>
+  <node id="1722677440" lat="34.2673750" lon="135.1482911" version="2" timestamp="2012-04-22T04:08:51Z" changeset="11379866" uid="662183" user="tzuchiya">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="藤戸(Fujito)"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="source" v="Survey"/>
+  </node>
+  <node id="1722734000" lat="34.2667080" lon="135.1509280" version="1" timestamp="2012-04-19T10:47:23Z" changeset="11352577" uid="662183" user="tzuchiya">
+    <tag k="amenity" v="library"/>
+    <tag k="name" v="和歌山大学附属図書館"/>
+    <tag k="source" v="Survey"/>
+  </node>
+  <node id="1725443685" lat="34.2644399" lon="135.1516143" version="1" timestamp="2012-04-21T14:54:24Z" changeset="11374512" uid="662183" user="tzuchiya">
+    <tag k="name" v="売店"/>
+    <tag k="shop" v="convenience"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2270119753" lat="34.2763770" lon="135.1473360" version="1" timestamp="2013-04-17T00:08:20Z" changeset="15756909" uid="27099" user="MAPconcierge">
+    <tag k="name" v="MaxValu Express"/>
+    <tag k="opening_hours" v="07:00-22:00"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2270125076" lat="34.2761700" lon="135.1472910" version="2" timestamp="2013-04-23T03:55:53Z" changeset="15831883" uid="662183" user="tzuchiya">
+    <tag k="amenity" v="cafe"/>
+    <tag k="atm" v="no"/>
+    <tag k="drive_through" v="yes"/>
+    <tag k="internet_access" v="wlan"/>
+    <tag k="name" v="musica cafe"/>
+    <tag k="outdoor_seating" v="yes"/>
+    <tag k="phone" v="073-488-7660"/>
+    <tag k="smoking" v="yes"/>
+    <tag k="takeaway" v="yes"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="2270136043" lat="34.2739890" lon="135.1481110" version="1" timestamp="2013-04-17T00:24:32Z" changeset="15756967" uid="27099" user="MAPconcierge">
+    <tag k="amenity" v="parking"/>
+    <tag k="covered" v="no"/>
+    <tag k="fee" v="no"/>
+    <tag k="name" v="ふじと台ステーションビルお客様駐車場"/>
+    <tag k="opening_hours" v="08:00-23:00"/>
+    <tag k="park_ride" v="no"/>
+    <tag k="parking" v="surface"/>
+    <tag k="surface" v="gravel"/>
+  </node>
+  <node id="2270141029" lat="34.2732920" lon="135.1503218" version="3" timestamp="2013-04-18T08:47:58Z" changeset="15770868" uid="662183" user="tzuchiya">
+    <tag k="leisure" v="playground"/>
+    <tag k="name" v="ふじと台13号児童公園"/>
+  </node>
+  <node id="2270142583" lat="34.2727909" lon="135.1518694" version="2" timestamp="2013-04-17T01:40:07Z" changeset="15757238" uid="662183" user="tzuchiya">
+    <tag k="covered" v="no"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="西五番丁"/>
+    <tag k="network" v="171,172,173,370,372"/>
+  </node>
+  <node id="2270144388" lat="34.2719774" lon="135.1525883" version="2" timestamp="2013-04-17T01:40:06Z" changeset="15757238" uid="662183" user="tzuchiya">
+    <tag k="name" v="清和総合保険"/>
+    <tag k="office" v="insurance"/>
+  </node>
+  <node id="2270144616" lat="34.2706260" lon="135.1528300" version="1" timestamp="2013-04-17T00:47:28Z" changeset="15757042" uid="27099" user="MAPconcierge">
+    <tag k="name" v="和歌山大学警備員詰所"/>
+    <tag k="tourism" v="information"/>
+  </node>
+  <node id="2271572668" lat="34.2746000" lon="135.1483210" version="2" timestamp="2013-04-23T03:52:29Z" changeset="15831866" uid="662183" user="tzuchiya">
+    <tag k="leisure" v="playground"/>
+    <tag k="name" v="ふじと台1号緑地"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2274729471" lat="34.2623720" lon="135.1436100" version="3" timestamp="2014-04-25T04:07:48Z" changeset="21922002" uid="171028" user="yasunari">
+    <tag k="brand" v="7 ELEVEN"/>
+    <tag k="name" v="セブン-イレブン"/>
+    <tag k="name:en" v="Seven-Eleven"/>
+    <tag k="name:ja" v="セブン-イレブン"/>
+    <tag k="name:ja_rm" v="Sebun Irebun"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2277911525" lat="34.2760600" lon="135.1475150" version="1" timestamp="2013-04-23T03:53:50Z" changeset="15831875" uid="662183" user="tzuchiya">
+    <tag k="amenity" v="atm"/>
+    <tag k="covered" v="yes"/>
+    <tag k="drive_through" v="no"/>
+    <tag k="fee" v="interval"/>
+    <tag k="name" v="紀陽銀行"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2277911649" lat="34.2760650" lon="135.1473220" version="2" timestamp="2014-04-19T07:15:37Z" changeset="21791585" uid="171028" user="yasunari">
+    <tag k="brand" v="au"/>
+    <tag k="name" v="auショップ"/>
+    <tag k="name:en" v="au shop"/>
+    <tag k="name:ja" v="auショップ"/>
+    <tag k="name:ja_rm" v="Eyu Shoppu"/>
+    <tag k="shop" v="mobile_phone"/>
+  </node>
+  <node id="2279011837" lat="34.2755796" lon="135.1466521" version="1" timestamp="2013-04-24T01:45:45Z" changeset="15843900" uid="662183" user="tzuchiya">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="和歌山大学前駅(Wakayamadaigakumaeeki)"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="source" v="Survey"/>
+  </node>
+  <node id="2279011857" lat="34.2756532" lon="135.1472518" version="1" timestamp="2013-04-24T01:45:45Z" changeset="15843900" uid="662183" user="tzuchiya">
+    <tag k="bus" v="yes"/>
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="和歌山大学前駅(Wakayamadaigakumaeeki)"/>
+    <tag k="public_transport" v="stop_position"/>
+    <tag k="source" v="Survey"/>
+  </node>
+  <node id="2279359118" lat="34.2696651" lon="135.1543001" version="1" timestamp="2013-04-24T10:38:27Z" changeset="15847337" uid="662183" user="tzuchiya">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="市立藤戸台小学校"/>
+    <tag k="source" v="survey"/>
+  </node>
+  <node id="2987226881" lat="34.2549028" lon="135.1484937" version="1" timestamp="2014-07-30T06:54:00Z" changeset="24436578" uid="2223134" user="dakuten">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="ラーメン"/>
+    <tag k="name" v="丸太屋"/>
+  </node>
+  <node id="3051288137" lat="34.2550553" lon="135.1349264" version="1" timestamp="2014-08-31T04:58:16Z" changeset="25130432" uid="1978443" user="masarap">
+    <tag k="branch" v="和歌山榎原店"/>
+    <tag k="name" v="眼鏡市場"/>
+    <tag k="name:en" v="Megane Ichiba"/>
+    <tag k="phone" v="073-480-5918"/>
+    <tag k="shop" v="optician"/>
+    <tag k="source" v="http://www.meganeichiba.jp/shopinfo/"/>
+    <tag k="website" v="http://www.meganeichiba.jp/"/>
+  </node>
+  <node id="3312301652" lat="34.2566749" lon="135.1552696" version="1" timestamp="2015-01-26T15:54:21Z" changeset="28421762" uid="2505380" user="shuu">
+    <tag k="name" v="テレビ和歌山"/>
+    <tag k="office" v="company"/>
+  </node>
+
+</osm>

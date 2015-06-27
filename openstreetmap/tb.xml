@@ -1,0 +1,1965 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2015-06-27T19:26:02Z"/>
+
+  <node id="267320472" lat="33.7204790" lon="135.4027820" version="4" timestamp="2015-02-06T06:57:08Z" changeset="28645124" uid="651065" user="futurumspes">
+    <tag k="KSJ2:INT" v="2"/>
+    <tag k="KSJ2:INT_label" v="JR在来線"/>
+    <tag k="KSJ2:LIN" v="紀勢線"/>
+    <tag k="KSJ2:OPC" v="西日本旅客鉄道"/>
+    <tag k="KSJ2:RAC" v="11"/>
+    <tag k="KSJ2:RAC_label" v="普通鉄道JR"/>
+    <tag k="KSJ2:STN" v="紀伊新庄"/>
+    <tag k="KSJ2:coordinate" v="33.720479 135.402782"/>
+    <tag k="KSJ2:lat" v="33.720479"/>
+    <tag k="KSJ2:long" v="135.402782"/>
+    <tag k="name" v="紀伊新庄"/>
+    <tag k="name:en" v="Kii-Shinjo"/>
+    <tag k="name:ja" v="紀伊新庄"/>
+    <tag k="name:ja_kana" v="きいしんじょう"/>
+    <tag k="name:ja_rm" v="Kii-Shinjō"/>
+    <tag k="note" v="National-Land Numerical Information (Railway) 2007, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（鉄道データ）平成19年　国土交通省"/>
+    <tag k="railway" v="station"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"/>
+    <tag k="wikipedia" v="ja:紀伊新庄駅"/>
+  </node>
+  <node id="267320473" lat="33.6962430" lon="135.4175080" version="4" timestamp="2015-02-06T06:57:08Z" changeset="28645124" uid="651065" user="futurumspes">
+    <tag k="KSJ2:INT" v="2"/>
+    <tag k="KSJ2:INT_label" v="JR在来線"/>
+    <tag k="KSJ2:LIN" v="紀勢線"/>
+    <tag k="KSJ2:OPC" v="西日本旅客鉄道"/>
+    <tag k="KSJ2:RAC" v="11"/>
+    <tag k="KSJ2:RAC_label" v="普通鉄道JR"/>
+    <tag k="KSJ2:STN" v="朝来"/>
+    <tag k="KSJ2:coordinate" v="33.696243 135.417508"/>
+    <tag k="KSJ2:lat" v="33.696243"/>
+    <tag k="KSJ2:long" v="135.417508"/>
+    <tag k="name" v="朝来"/>
+    <tag k="name:en" v="Asso"/>
+    <tag k="name:ja" v="朝来"/>
+    <tag k="name:ja_kana" v="あっそ"/>
+    <tag k="name:ja_rm" v="Asso"/>
+    <tag k="note" v="National-Land Numerical Information (Railway) 2007, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（鉄道データ）平成19年　国土交通省"/>
+    <tag k="railway" v="station"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"/>
+    <tag k="wikipedia" v="ja:朝来駅"/>
+  </node>
+  <node id="267320836" lat="33.7469410" lon="135.3555500" version="4" timestamp="2015-02-06T06:57:09Z" changeset="28645124" uid="651065" user="futurumspes">
+    <tag k="KSJ2:LIN" v="紀勢線"/>
+    <tag k="KSJ2:STN" v="芳養"/>
+    <tag k="name" v="芳養"/>
+    <tag k="name:en" v="Haya"/>
+    <tag k="name:ja" v="芳養"/>
+    <tag k="note" v="National-Land Numerical Information (Railway) 2007, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（鉄道データ）平成19年　国土交通省"/>
+    <tag k="railway" v="station"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"/>
+    <tag k="wikipedia" v="ja:芳養駅"/>
+  </node>
+  <node id="267320905" lat="33.7330983" lon="135.3843240" version="8" timestamp="2015-04-25T22:06:40Z" changeset="30486137" uid="1003241" user="yoshitk">
+    <tag k="KSJ2:LIN" v="紀勢線"/>
+    <tag k="KSJ2:STN" v="紀伊田辺"/>
+    <tag k="name" v="紀伊田辺"/>
+    <tag k="name:en" v="Kii-Tanabe"/>
+    <tag k="name:ja" v="紀伊田辺"/>
+    <tag k="name:ja_kana" v="きいたなべ"/>
+    <tag k="name:ja_rm" v="Kii-Tanabe"/>
+    <tag k="note" v="National-Land Numerical Information (Railway) 2007, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（鉄道データ）平成19年　国土交通省"/>
+    <tag k="railway" v="station"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-N02-v1_1.html"/>
+    <tag k="wikipedia" v="ja:紀伊田辺駅"/>
+  </node>
+  <node id="291485211" lat="33.6959937" lon="135.4184712" version="4" timestamp="2015-03-06T13:36:43Z" changeset="29289345" uid="2352862" user="Netzach">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="name" v="朝来駅前"/>
+    <tag k="name:en" v="Assoekimae"/>
+  </node>
+  <node id="291485217" lat="33.6947274" lon="135.4184397" version="4" timestamp="2015-03-06T13:18:12Z" changeset="29289345" uid="2352862" user="Netzach">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="name" v="朝来駅南"/>
+    <tag k="name:en" v="Assoekiminami"/>
+  </node>
+  <node id="691599266" lat="33.7332617" lon="135.3863640" version="11" timestamp="2015-01-20T20:03:57Z" changeset="28292746" uid="883031" user="Згарбул Андрей">
+    <tag k="addr:postcode" v="646-8545"/>
+    <tag k="is_in:country" v="Japan"/>
+    <tag k="is_in:country_code" v="JP"/>
+    <tag k="name" v="田辺市"/>
+    <tag k="name:en" v="Tanabe"/>
+    <tag k="name:fr" v="Tanabe"/>
+    <tag k="name:ja" v="田辺市"/>
+    <tag k="name:ja_kana" v="たなべし"/>
+    <tag k="name:ja_rm" v="Tanabe-shi"/>
+    <tag k="name:pl" v="Tanabe"/>
+    <tag k="name:ru" v="Танабе"/>
+    <tag k="name:uk" v="Танабе"/>
+    <tag k="place" v="city"/>
+    <tag k="population" v="77749"/>
+    <tag k="website" v="http://www.city.tanabe.lg.jp"/>
+    <tag k="wikidata" v="Q304266"/>
+    <tag k="wikipedia" v="ja:田辺市"/>
+  </node>
+  <node id="691599267" lat="33.6971265" lon="135.4213212" version="6" timestamp="2015-03-15T01:48:03Z" changeset="29484277" uid="2758910" user="河童の和ちゃん">
+    <tag k="addr:postcode" v="649-2192"/>
+    <tag k="amenity" v="townhall"/>
+    <tag k="ele" v="18.3"/>
+    <tag k="emergency" v="assembly_point"/>
+    <tag k="name" v="上富田町"/>
+    <tag k="name:en" v="Kamitonda"/>
+    <tag k="name:ja" v="上富田町"/>
+    <tag k="name:ja_kana" v="かみとんだちょう"/>
+    <tag k="name:ja_rm" v="Kamitonda-chō"/>
+    <tag k="population" v="14862"/>
+    <tag k="source" v="GSImaps/dem"/>
+    <tag k="website" v="http://www.town.kamitonda.lg.jp"/>
+    <tag k="wikipedia" v="ja:上富田町"/>
+  </node>
+  <node id="776737168" lat="33.7402860" lon="135.3788928" version="4" timestamp="2014-08-20T15:18:11Z" changeset="24887532" uid="2276938" user="kumachan">
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="denomination" v="shingon_shu"/>
+    <tag k="denomination:ja" v="真言宗"/>
+    <tag k="name" v="高山寺"/>
+    <tag k="religion" v="buddhist"/>
+  </node>
+  <node id="1397945064" lat="33.6926850" lon="135.4298410" version="2" timestamp="2015-03-06T13:18:11Z" changeset="29289345" uid="2352862" user="Netzach">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="name" v="生馬"/>
+    <tag k="name:en" v="Ikuma"/>
+  </node>
+  <node id="1397947511" lat="33.6973190" lon="135.4265700" version="2" timestamp="2015-03-06T13:36:43Z" changeset="29289345" uid="2352862" user="Netzach">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="name" v="救馬観音入口"/>
+    <tag k="name:en" v="Sukumakannon iriguchi"/>
+  </node>
+  <node id="1397948372" lat="33.6983900" lon="135.4184930" version="2" timestamp="2015-03-06T13:36:43Z" changeset="29289345" uid="2352862" user="Netzach">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="name" v="丹田台入口"/>
+    <tag k="name:en" v="Tandadaiiriguchi"/>
+  </node>
+  <node id="1397949531" lat="33.6994746" lon="135.4289594" version="3" timestamp="2015-03-06T13:36:43Z" changeset="29289345" uid="2352862" user="Netzach">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="name" v="熊野高校北西"/>
+    <tag k="name:en" v="Kumanokoko Hokusei"/>
+  </node>
+  <node id="1397950448" lat="33.7008395" lon="135.4352710" version="3" timestamp="2015-03-06T13:36:43Z" changeset="29289345" uid="2352862" user="Netzach">
+    <tag k="highway" v="traffic_signals"/>
+    <tag k="name" v="立平"/>
+    <tag k="name:en" v="Tachihira"/>
+  </node>
+  <node id="1423043090" lat="33.7215310" lon="135.3882170" version="1" timestamp="2011-09-04T13:53:59Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="文里2-7-13"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="民間"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="あゆみ保育所"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423043154" lat="33.7395290" lon="135.3875500" version="2" timestamp="2014-10-16T12:16:43Z" changeset="26116491" uid="2392489" user="kyashii">
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="いずみ保育園"/>
+    <tag k="name:en" v="Izumi Nursery"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423045186" lat="33.7100890" lon="135.4433230" version="1" timestamp="2011-09-04T13:55:16Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="岩田2150"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県西牟婁郡上富田町"/>
+    <tag k="KSJ2:PubFacAdmin" v="都道府県"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="はまゆう養護学校"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423045202" lat="33.7545540" lon="135.3514150" version="1" timestamp="2011-09-04T13:55:17Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="芳養町1774-9"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="はやざと保育所"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423045580" lat="33.7381400" lon="135.3994930" version="2" timestamp="2014-10-19T00:47:26Z" changeset="26182770" uid="2392489" user="kyashii">
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="まろみ保育所"/>
+    <tag k="name:en" v="Maromi Nursery"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423045767" lat="33.7254470" lon="135.3812730" version="2" timestamp="2014-10-11T12:19:57Z" changeset="26002708" uid="2392489" user="kyashii">
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="みどり保育所"/>
+    <tag k="name:en" v="Midori Nursery School"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423046165" lat="33.7453330" lon="135.3592190" version="1" timestamp="2011-09-04T13:55:43Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="元町1219-1"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="もとまち保育所"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423047259" lat="33.7336410" lon="135.3931050" version="2" timestamp="2014-10-16T12:16:43Z" changeset="26116491" uid="2392489" user="kyashii">
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="シオン幼稚園"/>
+    <tag k="name:en" v="Shion Kindergarten"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423048353" lat="33.7382240" lon="135.4287410" version="2" timestamp="2014-10-19T00:47:27Z" changeset="26182770" uid="2392489" user="kyashii">
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="三栖幼稚園"/>
+    <tag k="name:en" v="Misu Kindergarten"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423048356" lat="33.7428850" lon="135.4339530" version="2" timestamp="2014-10-19T00:47:27Z" changeset="26182770" uid="2392489" user="kyashii">
+    <tag k="amenity" v="post_office"/>
+    <tag k="name" v="三栖郵便局"/>
+    <tag k="name:en" v="Misu Post Office"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423048944" lat="33.6937300" lon="135.4317130" version="1" timestamp="2011-09-04T13:57:29Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="生馬725-1"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県西牟婁郡上富田町"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="fire_station"/>
+    <tag k="name" v="上富田消防署"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423048955" lat="33.6962300" lon="135.4289080" version="4" timestamp="2015-03-15T01:39:25Z" changeset="29484188" uid="2758910" user="河童の和ちゃん">
+    <tag k="amenity" v="townhall"/>
+    <tag k="ele" v="18.3"/>
+    <tag k="emergency" v="assembly_point"/>
+    <tag k="name" v="上富田町役場"/>
+    <tag k="name:en" v="Kami-Tonda Town Hall"/>
+    <tag k="name:ja" v="上富田町役場"/>
+    <tag k="name:ja_kana" v="かみとんだまちやくば"/>
+    <tag k="name:ja_rm" v="Kami-Tonda-machiyakuba"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2,GSImaps/dem"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+    <tag k="wikipedia" v="ja:上富田町"/>
+  </node>
+  <node id="1423048967" lat="33.6969630" lon="135.4298070" version="1" timestamp="2011-09-04T13:57:30Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="朝来758-1"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県西牟婁郡上富田町"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="library"/>
+    <tag k="name" v="上富田町立図書館"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423048978" lat="33.6946190" lon="135.4197700" version="1" timestamp="2011-09-04T13:57:30Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="朝来里田1323-3"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県西牟婁郡上富田町"/>
+    <tag k="KSJ2:PubFacAdmin" v="その他"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="name" v="上富田郵便局"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423049125" lat="33.7578990" lon="135.4104810" version="2" timestamp="2014-10-19T00:47:27Z" changeset="26182770" uid="2392489" user="kyashii">
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="上秋津幼稚園"/>
+    <tag k="name:en" v="Kami-Akizu Kindergarten"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423049129" lat="33.7568320" lon="135.4037980" version="2" timestamp="2014-10-19T00:47:27Z" changeset="26182770" uid="2392489" user="kyashii">
+    <tag k="amenity" v="post_office"/>
+    <tag k="name" v="上秋津郵便局"/>
+    <tag k="name:en" v="Kami-Akizu Post Office"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423049220" lat="33.7361960" lon="135.3713570" version="1" timestamp="2011-09-04T13:57:40Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="古尾17-1"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="民間"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="上野山幼稚園"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423051676" lat="33.6927802" lon="135.3375243" version="2" timestamp="2015-01-08T06:54:45Z" changeset="27991076" uid="2558013" user="fukushima_nassua_co_jp">
+    <tag k="name" v="京都大学フィールド科学教育研究センター瀬戸臨海実験所水族館（京都大学白浜水族館）"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+    <tag k="tourism" v="aquarium"/>
+  </node>
+  <node id="1423052538" lat="33.7455010" lon="135.3949100" version="2" timestamp="2014-10-19T00:47:26Z" changeset="26182770" uid="2392489" user="kyashii">
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="会津保育所"/>
+    <tag k="name:en" v="Aizu Nursery"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423055599" lat="33.7080610" lon="135.4441280" version="1" timestamp="2011-09-04T14:02:45Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="岩田1776-1"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県西牟婁郡上富田町"/>
+    <tag k="KSJ2:PubFacAdmin" v="民間"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="name" v="南紀福祉センター附属病院"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423055600" lat="33.7090890" lon="135.4447390" version="1" timestamp="2011-09-04T14:02:45Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="岩田1787-1"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県西牟婁郡上富田町"/>
+    <tag k="KSJ2:PubFacAdmin" v="都道府県"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="南紀養護学校"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423056136" lat="33.7272979" lon="135.3786317" version="3" timestamp="2014-11-25T18:09:05Z" changeset="27027691" uid="2276938" user="kumachan">
+    <tag k="building" v="public"/>
+    <tag k="name" v="和歌山刑務所田辺拘置支所"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423056181" lat="33.7243920" lon="135.3798010" version="1" timestamp="2011-09-04T14:03:28Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="末広町12-13"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="国"/>
+    <tag k="amenity" v="public_building"/>
+    <tag k="name" v="和歌山地方検察庁田辺区検察庁"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423056188" lat="33.7243920" lon="135.3798010" version="1" timestamp="2011-09-04T14:03:28Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="末広町12-13"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="国"/>
+    <tag k="amenity" v="public_building"/>
+    <tag k="name" v="和歌山地方検察庁田辺支部"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423056233" lat="33.7155320" lon="135.3921330" version="1" timestamp="2011-09-04T14:03:30Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="分里1-11-9"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="国"/>
+    <tag k="amenity" v="public_building"/>
+    <tag k="name" v="和歌山地方法務局田辺支局"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423056252" lat="33.7269053" lon="135.3784194" version="6" timestamp="2014-11-25T18:31:34Z" changeset="27028089" uid="2276938" user="kumachan">
+    <tag k="name" v="和歌山地方裁判所田辺支部"/>
+    <tag k="name:en" v="Wakayama area Tanabe Branch Courthouse"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423056253" lat="33.7268486" lon="135.3784303" version="5" timestamp="2014-11-25T18:31:34Z" changeset="27028089" uid="2276938" user="kumachan">
+    <tag k="name" v="和歌山地方裁判所田辺検察審査会"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423056254" lat="33.7269588" lon="135.3784144" version="5" timestamp="2014-11-25T18:31:34Z" changeset="27028089" uid="2276938" user="kumachan">
+    <tag k="name" v="和歌山地方裁判所田辺簡易裁判所"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423056724" lat="33.7347240" lon="135.3933550" version="1" timestamp="2011-09-04T14:03:52Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="朝日ケ丘23-1"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="都道府県"/>
+    <tag k="amenity" v="public_building"/>
+    <tag k="name" v="和歌山県田辺保健所"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423056738" lat="33.6957840" lon="135.3959850" version="1" timestamp="2011-09-04T14:03:54Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="新庄町3353-9"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="都道府県"/>
+    <tag k="amenity" v="library"/>
+    <tag k="name" v="和歌山県立紀南図書館"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423056744" lat="33.7098310" lon="135.4314950" version="1" timestamp="2011-09-04T14:03:55Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="生馬321-10"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県西牟婁郡上富田町"/>
+    <tag k="KSJ2:PubFacAdmin" v="都道府県"/>
+    <tag k="amenity" v="public_building"/>
+    <tag k="name" v="和歌山県紀南家畜保健衛生所"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423056745" lat="33.7347240" lon="135.3933550" version="1" timestamp="2011-09-04T14:03:55Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="朝日ケ丘23-1（西牟婁総合庁舎）"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="都道府県"/>
+    <tag k="amenity" v="public_building"/>
+    <tag k="name" v="和歌山県紀南県税事務所"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423056761" lat="33.7347240" lon="135.3933550" version="2" timestamp="2014-10-16T12:16:43Z" changeset="26116491" uid="2392489" user="kyashii">
+    <tag k="amenity" v="public_building"/>
+    <tag k="name" v="和歌山県西牟婁振興局"/>
+    <tag k="name:en" v="Wakayama Prefecture Nishimuro County Promotion Bureau"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423056873" lat="33.7251320" lon="135.3848800" version="1" timestamp="2011-09-04T14:04:16Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="湊297-1"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="その他"/>
+    <tag k="amenity" v="public_building"/>
+    <tag k="name" v="国民生活金融公庫田辺支店"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423056889" lat="33.7006900" lon="135.3995460" version="1" timestamp="2011-09-04T14:04:19Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="たきない町27-1"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="国"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="name" v="国立病院機構南和歌山医療センター"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423058021" lat="33.7297730" lon="135.3755140" version="3" timestamp="2014-10-16T14:59:23Z" changeset="26120794" uid="2276938" user="kumachan">
+    <tag k="building" v="public"/>
+    <tag k="name" v="大阪国税局田辺税務署"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423058138" lat="33.7318910" lon="135.3612750" version="2" timestamp="2012-02-12T14:18:39Z" changeset="10663005" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="元町2410-131"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="name" v="天神児童館"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423061775" lat="33.7073110" lon="135.4435730" version="1" timestamp="2011-09-04T14:10:25Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="岩田1764-2"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県西牟婁郡上富田町"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="岩田保育所"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423061776" lat="33.7067560" lon="135.4440730" version="1" timestamp="2011-09-04T14:10:26Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="岩田1764-1"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県西牟婁郡上富田町"/>
+    <tag k="KSJ2:PubFacAdmin" v="民間"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="岩田幼稚園"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423061778" lat="33.7053670" lon="135.4445450" version="1" timestamp="2011-09-04T14:10:26Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="岩田1578-9"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県西牟婁郡上富田町"/>
+    <tag k="KSJ2:PubFacAdmin" v="その他"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="name" v="岩田郵便局"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423062416" lat="33.7443060" lon="135.4318520" version="2" timestamp="2014-10-19T00:47:27Z" changeset="26182770" uid="2392489" user="kyashii">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="市立三栖小学校"/>
+    <tag k="name:en" v="(Municipal) Misu Elementary School"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423062448" lat="33.7518420" lon="135.4091290" version="1" timestamp="2011-09-04T14:11:07Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="上秋津2263-2"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="市立上秋津中学校"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423062449" lat="33.7558050" lon="135.4070480" version="2" timestamp="2014-10-19T00:47:27Z" changeset="26182770" uid="2392489" user="kyashii">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="市立上秋津小学校"/>
+    <tag k="name:en" v="(Municipal) Kami-Akizu Elementary School"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423062622" lat="33.7448900" lon="135.3958550" version="2" timestamp="2014-10-19T00:47:26Z" changeset="26182770" uid="2392489" user="kyashii">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="市立会津小学校"/>
+    <tag k="name:en" v="(Municipal) Aizu Elementary School"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423063806" lat="33.7137550" lon="135.4027430" version="3" timestamp="2015-03-15T02:03:17Z" changeset="29484391" uid="463715" user="zekky_51">
+    <tag k="KSJ2:ADS" v="新庄町2266-2"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="school"/>
+    <tag k="ele" v="21.5"/>
+    <tag k="emergency" v="assembly_point"/>
+    <tag k="name" v="市立新庄中学校"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423063809" lat="33.7145600" lon="135.4005490" version="3" timestamp="2015-03-15T02:40:37Z" changeset="29484728" uid="2505346" user="tanaka-k">
+    <tag k="amenity" v="school"/>
+    <tag k="ele" v="15.2"/>
+    <tag k="emergency" v="assembly_point"/>
+    <tag k="name" v="市立新庄小学校"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2,GSImaps/dem"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423063811" lat="33.6954230" lon="135.3893280" version="1" timestamp="2011-09-04T14:13:18Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="新庄町3193"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="市立新庄第二小学校"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423063853" lat="33.7352630" lon="135.3578150" version="1" timestamp="2011-09-04T14:13:24Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="目良4-1"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="市立明洋中学校"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423064394" lat="33.7267250" lon="135.3876060" version="2" timestamp="2014-10-16T12:00:03Z" changeset="26116160" uid="2392489" user="kyashii">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="市立東陽中学校"/>
+    <tag k="name:en" v="(Municipal) Toyo Junior High School"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423064887" lat="33.7303910" lon="135.3990490" version="2" timestamp="2014-10-19T00:47:26Z" changeset="26182770" uid="2392489" user="kyashii">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="市立田辺東部小学校"/>
+    <tag k="name:en" v="(Municipal) Tanabe Tobu Elementary School"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423064889" lat="33.7347430" lon="135.3690450" version="1" timestamp="2011-09-04T14:14:32Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="上の山2-6-10"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="市立田辺第三小学校"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423064890" lat="33.7267250" lon="135.3842450" version="2" timestamp="2014-10-16T12:00:04Z" changeset="26116160" uid="2392489" user="kyashii">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="市立田辺第二小学校"/>
+    <tag k="name:en" v="(Municipal) Tanabe Dai-ni Elementary School"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423065273" lat="33.7500000" lon="135.3760510" version="1" timestamp="2011-09-04T14:14:51Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="稲成町780"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="市立稲成小学校"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423065498" lat="33.7473610" lon="135.3579700" version="1" timestamp="2011-09-04T14:15:11Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="芳養町1260-1"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="市立芳養小学校"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423065548" lat="33.7376680" lon="135.4284350" version="2" timestamp="2014-10-19T00:47:27Z" changeset="26182770" uid="2392489" user="kyashii">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="市立衣笠中学校"/>
+    <tag k="name:en" v="(Municipal) Kinugasa Junior High School"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423066905" lat="33.7391400" lon="135.3844950" version="2" timestamp="2014-10-16T12:16:43Z" changeset="26116491" uid="2392489" user="kyashii">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="市立高雄中学校"/>
+    <tag k="name:en" v="(Municipal) Takao Junior High School"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423067796" lat="33.7290248" lon="135.3757815" version="2" timestamp="2014-09-08T02:10:21Z" changeset="25298398" uid="2276938" user="kumachan">
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="扇ケ浜保育所"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423068287" lat="33.7339990" lon="135.3517460" version="1" timestamp="2011-09-04T14:18:37Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="目良24-1"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="その他"/>
+    <tag k="amenity" v="public_building"/>
+    <tag k="name" v="日本郵政公社加入者福祉施設紀伊田辺簡易保険保養センター"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423068815" lat="33.7372790" lon="135.3835230" version="2" timestamp="2014-10-16T12:16:43Z" changeset="26116491" uid="2392489" user="kyashii">
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="昭和幼稚園"/>
+    <tag k="name:en" v="Showa Kindergarten"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423068960" lat="33.7005340" lon="135.4167700" version="1" timestamp="2011-09-04T14:19:37Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="朝来2402-1"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県西牟婁郡上富田町"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="朝来第１保育所"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423068961" lat="33.7026170" lon="135.4194920" version="1" timestamp="2011-09-04T14:19:38Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="朝来2312-2"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県西牟婁郡上富田町"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="朝来第２保育所"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423069009" lat="33.7243990" lon="135.3815130" version="3" timestamp="2014-10-16T12:00:04Z" changeset="26116160" uid="2392489" user="kyashii">
+    <tag k="amenity" v="community_centre"/>
+    <tag k="name" v="末広児童館"/>
+    <tag k="name:en" v="Suehiro Children's Community Center"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423071031" lat="33.7309190" lon="135.3763010" version="3" timestamp="2015-03-15T01:09:25Z" changeset="29483885" uid="657356" user="mori_mori">
+    <tag k="amenity" v="hospital"/>
+    <tag k="ele" v="5.0"/>
+    <tag k="name" v="洗心会玉置病院"/>
+    <tag k="name:en" v="(Senshinkai) Tamaki Hospital"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2、標高：GSImaps/dem"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423073477" lat="33.7310850" lon="135.3701070" version="1" timestamp="2011-09-04T14:24:08Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="江川町258-乙"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="牟婁保育所"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423074313" lat="33.7373460" lon="135.3996000" version="2" timestamp="2014-10-19T00:47:26Z" changeset="26182770" uid="2392489" user="kyashii">
+    <tag k="amenity" v="post_office"/>
+    <tag k="name" v="田辺万呂簡易郵便局"/>
+    <tag k="name:en" v="Tanabe Maro Kanpo Post Office"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423074318" lat="33.7356410" lon="135.3925770" version="2" timestamp="2014-10-16T12:16:43Z" changeset="26116491" uid="2392489" user="kyashii">
+    <tag k="amenity" v="public_building"/>
+    <tag k="name" v="田辺公共職業安定所"/>
+    <tag k="name:en" v="Tanabe Public Employment Office"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423074330" lat="33.7280030" lon="135.3776900" version="3" timestamp="2014-08-20T15:15:38Z" changeset="24887480" uid="2277722" user="TAK360">
+    <tag k="amenity" v="townhall"/>
+    <tag k="name" v="田辺市役所 (Tanabe City Hall)"/>
+    <tag k="name:en" v="Tanabe City Hall"/>
+    <tag k="name:ja" v="田辺市役所"/>
+    <tag k="name:ja_kana" v="たなべしやくしょ"/>
+    <tag k="name:ja_rm" v="Tanabe-shiyakusho"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+    <tag k="website" v="http://www.city.tanabe.lg.jp/"/>
+    <tag k="wikipedia" v="ja:田辺市"/>
+  </node>
+  <node id="1423074356" lat="33.6973120" lon="135.4009100" version="1" timestamp="2011-09-04T14:25:04Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="たきない町24-43"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="name" v="田辺市立美術館"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+    <tag k="tourism" v="museum"/>
+  </node>
+  <node id="1423074377" lat="33.7215040" lon="135.4008540" version="1" timestamp="2011-09-04T14:25:05Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="新庄町487-1"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="その他"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="name" v="田辺新庄郵便局"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423074384" lat="33.7336960" lon="135.3930220" version="2" timestamp="2014-10-16T12:16:43Z" changeset="26116491" uid="2392489" user="kyashii">
+    <tag k="amenity" v="post_office"/>
+    <tag k="name" v="田辺朝日ヶ丘郵便局"/>
+    <tag k="name:en" v="Tanabe Asahigaoka Post Office"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423074387" lat="33.7333920" lon="135.3706430" version="1" timestamp="2011-09-04T14:25:05Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="江川2-49"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="その他"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="name" v="田辺江川郵便局"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423074397" lat="33.7410570" lon="135.3855500" version="1" timestamp="2011-09-04T14:25:06Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="下万呂786"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="fire_station"/>
+    <tag k="name" v="田辺消防署北分署"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423074405" lat="33.7275230" lon="135.3826810" version="2" timestamp="2014-08-24T13:06:26Z" changeset="24978491" uid="2286206" user="kyashiis">
+    <tag k="amenity" v="post_office"/>
+    <tag k="name" v="田辺湊郵便局"/>
+    <tag k="name:en" v="Tanabe Minato Post Office"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423074406" lat="33.7335800" lon="135.3523680" version="1" timestamp="2011-09-04T14:25:07Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="目良24-29"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="その他"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="name" v="田辺目良郵便局"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423074414" lat="33.7354460" lon="135.3923830" version="2" timestamp="2014-10-16T12:16:43Z" changeset="26116491" uid="2392489" user="kyashii">
+    <tag k="amenity" v="public_building"/>
+    <tag k="name" v="田辺社会保険事務所"/>
+    <tag k="name:en" v="Tanabe Social Security Office"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423074416" lat="33.7200550" lon="135.3875830" version="2" timestamp="2014-10-16T12:00:04Z" changeset="26116160" uid="2392489" user="kyashii">
+    <tag k="amenity" v="post_office"/>
+    <tag k="name" v="田辺神子浜郵便局"/>
+    <tag k="name:en" v="Tanabe Mikonohama Post Office"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423074425" lat="33.7066440" lon="135.4012030" version="1" timestamp="2011-09-04T14:25:07Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="神島台25-8"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="その他"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="name" v="田辺神島台郵便局"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423074426" lat="33.7447510" lon="135.3950490" version="2" timestamp="2014-10-19T00:47:26Z" changeset="26182770" uid="2392489" user="kyashii">
+    <tag k="amenity" v="post_office"/>
+    <tag k="name" v="田辺秋津簡易郵便局"/>
+    <tag k="name:en" v="Tanabe Akizu Kanpo Post Office"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423074434" lat="33.7473610" lon="135.3747180" version="1" timestamp="2011-09-04T14:25:08Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="稲成町2779"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="その他"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="name" v="田辺稲成簡易郵便局"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423074438" lat="33.7444540" lon="135.3555290" version="1" timestamp="2011-09-04T14:25:08Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="芳養町4167-22"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="その他"/>
+    <tag k="amenity" v="post_office"/>
+    <tag k="name" v="田辺芳養郵便局"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423074450" lat="33.7362330" lon="135.3684140" version="1" timestamp="2011-09-04T14:25:08Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="上の山1-2-1"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="都道府県"/>
+    <tag k="amenity" v="police"/>
+    <tag k="name" v="田辺警察署"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423074461" lat="33.7572770" lon="135.4039370" version="2" timestamp="2014-10-19T00:47:27Z" changeset="26182770" uid="2392489" user="kyashii">
+    <tag k="amenity" v="police"/>
+    <tag k="name" v="田辺警察署上秋津駐在所"/>
+    <tag k="name:en" v="Tanabe Police - Kami-Akizu Station"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423074462" lat="33.7451120" lon="135.4331290" version="1" timestamp="2011-09-04T14:25:09Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="中三栖"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="都道府県"/>
+    <tag k="amenity" v="police"/>
+    <tag k="name" v="田辺警察署中三栖駐在所"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423074481" lat="33.7280300" lon="135.3759120" version="2" timestamp="2014-10-11T12:06:19Z" changeset="26002485" uid="2392489" user="kyashii">
+    <tag k="amenity" v="police"/>
+    <tag k="name" v="田辺警察署大浜交番"/>
+    <tag k="name:en" v="Tanabe Ohama Police Station"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423074486" lat="33.7062560" lon="135.4456560" version="1" timestamp="2011-09-04T14:25:10Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="岩田"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県西牟婁郡上富田町"/>
+    <tag k="KSJ2:PubFacAdmin" v="都道府県"/>
+    <tag k="amenity" v="police"/>
+    <tag k="name" v="田辺警察署岩田駐在所"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423074495" lat="33.7332240" lon="135.3945220" version="2" timestamp="2014-10-16T12:16:43Z" changeset="26116491" uid="2392489" user="kyashii">
+    <tag k="amenity" v="police"/>
+    <tag k="name" v="田辺警察署新万駐在所"/>
+    <tag k="name:en" v="Tanabe Police Shinman Station"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423074502" lat="33.7161990" lon="135.4048820" version="1" timestamp="2011-09-04T14:25:11Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="新庄町"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="都道府県"/>
+    <tag k="amenity" v="police"/>
+    <tag k="name" v="田辺警察署新庄駐在所"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423074522" lat="33.6974790" lon="135.4182970" version="1" timestamp="2011-09-04T14:25:11Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="朝来"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県西牟婁郡上富田町"/>
+    <tag k="KSJ2:PubFacAdmin" v="都道府県"/>
+    <tag k="amenity" v="police"/>
+    <tag k="name" v="田辺警察署朝来交番"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423074551" lat="33.7328910" lon="135.3837730" version="2" timestamp="2014-10-16T12:00:03Z" changeset="26116160" uid="2392489" user="kyashii">
+    <tag k="amenity" v="police"/>
+    <tag k="name" v="田辺警察署田辺駅前交番"/>
+    <tag k="name:en" v="Tanabe Police - Ekimae Koban"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423074562" lat="33.7494440" lon="135.3518870" version="1" timestamp="2011-09-04T14:25:13Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="芳養町"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="都道府県"/>
+    <tag k="amenity" v="police"/>
+    <tag k="name" v="田辺警察署芳養駐在所"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423074598" lat="33.7317364" lon="135.3773133" version="3" timestamp="2014-10-11T12:06:19Z" changeset="26002485" uid="2392489" user="kyashii">
+    <tag k="amenity" v="post_office"/>
+    <tag k="name" v="田辺郵便局"/>
+    <tag k="name:en" v="Tanabe Central Post Office"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423074599" lat="33.7333940" lon="135.3827140" version="2" timestamp="2014-08-24T12:25:29Z" changeset="24977546" uid="2286206" user="kyashiis">
+    <tag k="amenity" v="post_office"/>
+    <tag k="name" v="田辺駅前郵便局"/>
+    <tag k="name:en" v="Tanabe Eki-mae Post Office"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423074959" lat="33.6987850" lon="135.4332960" version="1" timestamp="2011-09-04T14:25:39Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="岩田173"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県西牟婁郡上富田町"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="町立上富田中学校"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423075450" lat="33.7060060" lon="135.4196580" version="2" timestamp="2012-02-12T14:31:16Z" changeset="10663005" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="朝来3962-1"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県西牟婁郡上富田町"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="community_centre"/>
+    <tag k="name" v="町立大谷児童館"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423075612" lat="33.7243370" lon="135.4434340" version="1" timestamp="2011-09-04T14:26:42Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="岡638-1"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県西牟婁郡上富田町"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="町立岡小学校"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423075617" lat="33.7062280" lon="135.4436840" version="1" timestamp="2011-09-04T14:26:43Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="岩田1750"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県西牟婁郡上富田町"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="町立岩田小学校"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423076173" lat="33.6980630" lon="135.4214360" version="1" timestamp="2011-09-04T14:27:01Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="朝来2750"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県西牟婁郡上富田町"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="町立朝来小学校"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423077644" lat="33.6993400" lon="135.4309910" version="1" timestamp="2011-09-04T14:28:53Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="朝来670"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県西牟婁郡上富田町"/>
+    <tag k="KSJ2:PubFacAdmin" v="都道府県"/>
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="県立熊野高等学校"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423077652" lat="33.7286970" lon="135.3953550" version="2" timestamp="2014-10-16T12:16:44Z" changeset="26116491" uid="2392489" user="kyashii">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="県立田辺工業高等学校"/>
+    <tag k="name:en" v="(Prefectural) Tanabe Kogyou (Technical) Senior High School"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423077663" lat="33.7179210" lon="135.3878830" version="2" timestamp="2014-10-16T12:00:04Z" changeset="26116160" uid="2392489" user="kyashii">
+    <tag k="amenity" v="school"/>
+    <tag k="name" v="県立神島高等学校"/>
+    <tag k="name:en" v="(Prefectural) Kashima Senior High School"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423077955" lat="33.7327861" lon="135.3792671" version="4" timestamp="2014-11-23T12:06:41Z" changeset="26971608" uid="2276938" user="kumachan">
+    <tag k="amenity" v="hospital"/>
+    <tag k="name" v="研医会田辺中央病院"/>
+    <tag k="name:en" v="(Ken-i-kai) Tanabe Chuo Hospital"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423078034" lat="33.6995980" lon="135.3990620" version="1" timestamp="2011-09-04T14:29:27Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="たきない町25-1"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="name" v="社会保険紀南綜合病院新庄別館"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423086634" lat="33.7468610" lon="135.3754400" version="1" timestamp="2011-09-04T14:34:36Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="稲成町701-22"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="市区町村"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="稲成保育所"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423086780" lat="33.7278920" lon="135.3858280" version="2" timestamp="2014-10-16T12:00:03Z" changeset="26116160" uid="2392489" user="kyashii">
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="立正幼稚園"/>
+    <tag k="name:en" v="Rissho Kindergarten"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423087072" lat="33.7155320" lon="135.3921330" version="1" timestamp="2011-09-04T14:34:53Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="文里1-11-9（田辺港湾合同庁舎）"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="国"/>
+    <tag k="amenity" v="public_building"/>
+    <tag k="name" v="第五管区海上保安本部田辺海上保安部"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423088587" lat="33.7301140" lon="135.3814950" version="2" timestamp="2014-10-16T12:00:03Z" changeset="26116160" uid="2392489" user="kyashii">
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="紀南幼稚園"/>
+    <tag k="name:en" v="Kinan Kindergarten"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423090310" lat="33.7441950" lon="135.3557480" version="1" timestamp="2011-09-04T14:37:17Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="芳養町4167-102"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="民間"/>
+    <tag k="amenity" v="kindergarten"/>
+    <tag k="name" v="芳養保育所"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423091893" lat="33.7183370" lon="135.3995770" version="1" timestamp="2011-09-04T14:39:53Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="新庄町2345-1"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="国"/>
+    <tag k="amenity" v="public_building"/>
+    <tag k="name" v="近畿中国森林管理局和歌山森林管理署"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423091956" lat="33.7360570" lon="135.3983550" version="1" timestamp="2011-09-04T14:39:56Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="中万呂142"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="国"/>
+    <tag k="amenity" v="public_building"/>
+    <tag k="name" v="近畿地方整備局紀南河川国道事務所"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1423092095" lat="33.7249750" lon="135.3939110" version="1" timestamp="2011-09-04T14:40:05Z" changeset="9209066" uid="393606" user="watao">
+    <tag k="KSJ2:ADS" v="東山2-7-20"/>
+    <tag k="KSJ2:AdminArea" v="和歌山県田辺市"/>
+    <tag k="KSJ2:PubFacAdmin" v="国"/>
+    <tag k="amenity" v="public_building"/>
+    <tag k="name" v="近畿農政局和歌山農政事務所田辺統計・情報センター"/>
+    <tag k="note" v="National-Land Numerical Information (Public Facility) 2006, MLIT Japan"/>
+    <tag k="note:ja" v="国土数値情報（公共施設データ）平成19年　国土交通省"/>
+    <tag k="source" v="KSJ2"/>
+    <tag k="source_ref" v="http://nlftp.mlit.go.jp/ksj/jpgis/datalist/KsjTmplt-P02-v2_0.html"/>
+  </node>
+  <node id="1435402234" lat="33.7307544" lon="135.4047444" version="2" timestamp="2014-10-19T00:47:26Z" changeset="26182770" uid="2392489" user="kyashii">
+    <tag k="amenity" v="hospital"/>
+    <tag k="emergency" v="no"/>
+    <tag k="name" v="社会保険紀南病院"/>
+    <tag k="name:en" v="(National Insurance) Kinan Hospital"/>
+    <tag k="source" v="knowledge"/>
+  </node>
+  <node id="2094561347" lat="33.6968980" lon="135.4187160" version="2" timestamp="2014-04-19T01:13:26Z" changeset="21788547" uid="171028" user="yasunari">
+    <tag k="brand" v="LAWSON"/>
+    <tag k="name" v="ローソン"/>
+    <tag k="name:en" v="LAWSON"/>
+    <tag k="name:ja" v="ローソン"/>
+    <tag k="name:ja_rm" v="Rōson"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2094568855" lat="33.7025340" lon="135.4168340" version="1" timestamp="2013-01-04T08:56:14Z" changeset="14523317" uid="553424" user="ao_zeal">
+    <tag k="name" v="Party House"/>
+    <tag k="shop" v="household"/>
+  </node>
+  <node id="2094573343" lat="33.7098450" lon="135.4081540" version="1" timestamp="2013-01-04T08:58:11Z" changeset="14523336" uid="553424" user="ao_zeal">
+    <tag k="name" v="Johshin"/>
+    <tag k="shop" v="electronics"/>
+  </node>
+  <node id="2094576846" lat="33.7123310" lon="135.4049020" version="1" timestamp="2013-01-04T09:01:58Z" changeset="14523367" uid="553424" user="ao_zeal">
+    <tag k="amenity" v="fuel"/>
+    <tag k="name" v="紀洋石油"/>
+  </node>
+  <node id="2094584719" lat="33.7180970" lon="135.4031440" version="1" timestamp="2013-01-04T09:06:07Z" changeset="14523406" uid="553424" user="ao_zeal">
+    <tag k="name" v="Family Mart"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2094591559" lat="33.7242180" lon="135.3966730" version="3" timestamp="2014-04-19T01:13:26Z" changeset="21788547" uid="171028" user="yasunari">
+    <tag k="brand" v="LAWSON"/>
+    <tag k="name" v="ローソン"/>
+    <tag k="name:en" v="LAWSON"/>
+    <tag k="name:ja" v="ローソン"/>
+    <tag k="name:ja_rm" v="Rōson"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2094597450" lat="33.7302420" lon="135.3870180" version="1" timestamp="2013-01-04T09:14:25Z" changeset="14523471" uid="553424" user="ao_zeal">
+    <tag k="name" v="Family Mart"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2095644534" lat="33.7022980" lon="135.4013390" version="2" timestamp="2014-04-19T01:13:26Z" changeset="21788547" uid="171028" user="yasunari">
+    <tag k="brand" v="LAWSON"/>
+    <tag k="name" v="ローソン"/>
+    <tag k="name:en" v="LAWSON"/>
+    <tag k="name:ja" v="ローソン"/>
+    <tag k="name:ja_rm" v="Rōson"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2098114879" lat="33.7329260" lon="135.3835083" version="3" timestamp="2014-10-28T08:26:59Z" changeset="26382176" uid="2277417" user="s-nakayama ATC">
+    <tag k="amenity" v="pub"/>
+    <tag k="brand" v="つぼ八"/>
+    <tag k="name" v="つぼ八"/>
+    <tag k="name:en" v="Tsubohachi"/>
+    <tag k="name:ja" v="つぼ八"/>
+    <tag k="name:ja_rm" v="Tsubohachi"/>
+  </node>
+  <node id="2098114883" lat="33.7310112" lon="135.3814925" version="2" timestamp="2014-10-11T12:06:19Z" changeset="26002485" uid="2392489" user="kyashii">
+    <tag k="name" v="アルティエホテル紀伊田辺"/>
+    <tag k="name:en" v="Altier Hotel"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="2098115070" lat="33.7327879" lon="135.3823003" version="3" timestamp="2015-05-22T06:00:59Z" changeset="31361675" uid="68982" user="kisaa">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="japanese"/>
+    <tag k="name" v="徳乃"/>
+    <tag k="name:en" v="Tokuno"/>
+  </node>
+  <node id="2098115095" lat="33.7333185" lon="135.3824500" version="3" timestamp="2015-05-22T06:01:01Z" changeset="31361675" uid="68982" user="kisaa">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="japanese"/>
+    <tag k="name" v="銀ちろ 本店"/>
+    <tag k="name:en" v="Ginchiro"/>
+  </node>
+  <node id="2098115098" lat="33.7324900" lon="135.3835853" version="2" timestamp="2014-08-24T12:45:16Z" changeset="24977975" uid="2286206" user="kyashiis">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="Japanese,_sushi"/>
+    <tag k="name" v="銀ちろ 駅前店"/>
+    <tag k="name:en" v="Ginchiro - Eki-mae branch"/>
+  </node>
+  <node id="2098150364" lat="33.6935156" lon="135.3870581" version="1" timestamp="2013-01-06T15:06:39Z" changeset="14550333" uid="553424" user="ao_zeal">
+    <tag k="name" v="Family Mart"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2098150369" lat="33.6933241" lon="135.3867175" version="1" timestamp="2013-01-06T15:06:39Z" changeset="14550333" uid="553424" user="ao_zeal">
+    <tag k="amenity" v="fast_food"/>
+    <tag k="name" v="MOS BARGAR"/>
+  </node>
+  <node id="2099712221" lat="33.7168896" lon="135.3928854" version="2" timestamp="2014-04-19T01:13:25Z" changeset="21788547" uid="171028" user="yasunari">
+    <tag k="brand" v="KOMERI"/>
+    <tag k="name" v="コメリ"/>
+    <tag k="name:en" v="KOMERI"/>
+    <tag k="name:ja" v="コメリ"/>
+    <tag k="name:ja_rm" v="Komeri"/>
+    <tag k="shop" v="doityourself"/>
+  </node>
+  <node id="2099712248" lat="33.7021188" lon="135.3949418" version="2" timestamp="2014-04-19T01:13:26Z" changeset="21788547" uid="171028" user="yasunari">
+    <tag k="brand" v="LAWSON"/>
+    <tag k="name" v="ローソン"/>
+    <tag k="name:en" v="LAWSON"/>
+    <tag k="name:ja" v="ローソン"/>
+    <tag k="name:ja_rm" v="Rōson"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2099712251" lat="33.7017284" lon="135.3907898" version="1" timestamp="2013-01-07T12:53:34Z" changeset="14561965" uid="553424" user="ao_zeal">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="japanese"/>
+    <tag k="name" v="大漁まぐろ家"/>
+  </node>
+  <node id="2148617725" lat="33.7464570" lon="135.3687949" version="1" timestamp="2013-02-10T04:41:38Z" changeset="14975845" uid="900628" user="hides">
+    <tag k="highway" v="motorway_junction"/>
+    <tag k="name" v="南紀田辺"/>
+    <tag k="ref" v="34"/>
+  </node>
+  <node id="2404654464" lat="33.7223586" lon="135.3795372" version="3" timestamp="2014-10-11T12:19:57Z" changeset="26002708" uid="2392489" user="kyashii">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="南方熊楠翁顕彰碑"/>
+    <tag k="name:en" v="Monument in honor of Minakata Kumagusu"/>
+  </node>
+  <node id="2404707247" lat="33.7507123" lon="135.3783942" version="2" timestamp="2014-08-20T14:27:01Z" changeset="24886380" uid="2276938" user="kumachan">
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="name" v="稲荷神社"/>
+    <tag k="religion" v="shinto"/>
+  </node>
+  <node id="2499072299" lat="33.7446516" lon="135.3859209" version="1" timestamp="2013-10-17T06:27:47Z" changeset="18397627" uid="1777225" user="skpn">
+    <tag k="name" v="青木会館"/>
+  </node>
+  <node id="2499122516" lat="33.7242155" lon="135.3961144" version="1" timestamp="2013-10-17T07:07:50Z" changeset="18398021" uid="1777225" user="skpn">
+    <tag k="name" v="ヤマダ電機"/>
+  </node>
+  <node id="2508953975" lat="33.7434929" lon="135.3763895" version="1" timestamp="2013-10-25T23:56:48Z" changeset="18545175" uid="1777225" user="skpn">
+    <tag k="name" v="Aコープ紀南デリシスいなり店"/>
+    <tag k="shop" v="supermarket"/>
+  </node>
+  <node id="2701012348" lat="33.6956382" lon="135.3955713" version="2" timestamp="2014-03-04T09:04:06Z" changeset="20905834" uid="649467" user="杉山幹夫">
+    <tag k="addr:city" v="田辺市 (Tanabe)"/>
+    <tag k="amenity" v="university"/>
+    <tag k="name" v="和歌山大学南紀熊野サテライト"/>
+    <tag k="operator" v="和歌山大学"/>
+    <tag k="wikipedia" v="en:http://www.wakayama-u.ac.jp/nanki-kumano/"/>
+  </node>
+  <node id="2794249455" lat="33.7198021" lon="135.3841675" version="1" timestamp="2014-04-16T08:53:17Z" changeset="21725666" uid="1879520" user="freayd">
+    <tag k="amenity" v="fuel"/>
+    <tag k="name" v="Idemitsu"/>
+  </node>
+  <node id="2794249462" lat="33.7264078" lon="135.3836733" version="2" timestamp="2014-10-11T12:19:57Z" changeset="26002708" uid="2392489" user="kyashii">
+    <tag k="name" v="Vショップ東本町店 (V Shop)"/>
+    <tag k="name:en" v="V Shop - Higashi-hon-machi Branch"/>
+    <tag k="name:ja" v="Vショップ東本町店"/>
+    <tag k="shop" v="convenience"/>
+  </node>
+  <node id="2794249560" lat="33.7322085" lon="135.3847538" version="1" timestamp="2014-04-16T08:53:18Z" changeset="21725666" uid="1879520" user="freayd">
+    <tag k="name" v="てんつくゲストハウス (Tentsuku Guest House)"/>
+    <tag k="name:en" v="Tentsuku Guest House"/>
+    <tag k="name:ja" v="てんつくゲストハウス"/>
+    <tag k="tourism" v="guest_house"/>
+    <tag k="website" v="http://www.tentsuku.net/"/>
+  </node>
+  <node id="2794249566" lat="33.7214846" lon="135.3837036" version="1" timestamp="2014-04-16T08:53:18Z" changeset="21725666" uid="1879520" user="freayd">
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="name" v="日吉神社 (Hiyoshi Shrine)"/>
+    <tag k="name:en" v="Hiyoshi Shrine"/>
+    <tag k="name:ja" v="日吉神社"/>
+    <tag k="religion" v="shinto"/>
+  </node>
+  <node id="3028965076" lat="33.7328320" lon="135.3819086" version="2" timestamp="2014-10-16T12:00:03Z" changeset="26116160" uid="2392489" user="kyashii">
+    <tag k="name" v="沖見商店　魚のデパート"/>
+    <tag k="shop" v="seafood"/>
+  </node>
+  <node id="3029023962" lat="33.7324311" lon="135.3797015" version="2" timestamp="2014-10-16T12:00:03Z" changeset="26116160" uid="2392489" user="kyashii">
+    <tag k="building" v="hut"/>
+    <tag k="name" v="vanillacafe coffee roasters"/>
+    <tag k="name:en" v="Vanilla Cafe Coffee Roasters"/>
+  </node>
+  <node id="3029023978" lat="33.7324533" lon="135.3797270" version="1" timestamp="2014-08-20T05:04:09Z" changeset="24875448" uid="2274756" user="michiya30">
+    <tag k="amenity" v="cafe"/>
+    <tag k="name" v="vanillacafe coffee"/>
+  </node>
+  <node id="3029113169" lat="33.7307120" lon="135.3777337" version="15" timestamp="2015-03-15T01:43:14Z" changeset="29484223" uid="657356" user="mori_mori">
+    <tag k="addr:city" v="田辺市中屋敷町36番地の１"/>
+    <tag k="addr:postcode" v="646-0035"/>
+    <tag k="building:levels" v="2"/>
+    <tag k="ele" v="5.7"/>
+    <tag k="name" v="南方熊楠邸（登録文化財　旧南方家住宅）"/>
+    <tag k="name:en" v="Minakata Kumagusu's house"/>
+    <tag k="opening_hours" v="10:00-16:30"/>
+    <tag k="operator" v="田辺市"/>
+    <tag k="source" v="標高：GSImaps/dem"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="website" v="http://www.minakata.org"/>
+    <tag k="wheelchair" v="yes"/>
+  </node>
+  <node id="3029123418" lat="33.7208223" lon="135.3853586" version="3" timestamp="2014-08-21T16:17:58Z" changeset="24912941" uid="2276938" user="kumachan">
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="name" v="神楽神社"/>
+    <tag k="religion" v="shinto"/>
+  </node>
+  <node id="3029325603" lat="33.7328048" lon="135.3844138" version="1" timestamp="2014-08-20T09:41:36Z" changeset="24879700" uid="649467" user="杉山幹夫">
+    <tag k="addr:city" v="田辺市 (Tanabe)"/>
+    <tag k="addr:street" v="秋津川田辺線"/>
+    <tag k="name" v="一般社団法人田辺市熊野ツーリズムビューロー"/>
+    <tag k="office" v="company"/>
+    <tag k="website" v="http://www.tb-kumano.jp/"/>
+    <tag k="wheelchair" v="no"/>
+  </node>
+  <node id="3029644696" lat="33.7390902" lon="135.3775727" version="1" timestamp="2014-08-20T13:24:45Z" changeset="24884908" uid="2276938" user="kumachan">
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="name" v="猿神社"/>
+    <tag k="religion" v="shinto"/>
+  </node>
+  <node id="3030699787" lat="33.7307238" lon="135.3856739" version="4" timestamp="2014-10-11T12:08:51Z" changeset="26002529" uid="2278957" user="appleroad">
+    <tag k="addr:city" v="和歌山県田辺市"/>
+    <tag k="addr:housenumber" v="739-7"/>
+    <tag k="addr:postcode" v="646-0031"/>
+    <tag k="addr:street" v="湊"/>
+    <tag k="name" v="美吉屋旅館"/>
+    <tag k="name:en" v="Japanese Inn Miyoshiya"/>
+    <tag k="operator" v="美吉屋旅館"/>
+    <tag k="source" v="Knowledge;Bing"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="3030941932" lat="33.7314750" lon="135.3817939" version="2" timestamp="2014-09-14T07:15:34Z" changeset="25425737" uid="1978443" user="masarap">
+    <tag k="name" v="紀州梅処なかた あおい店"/>
+    <tag k="opening_hours" v="09：00-18：00"/>
+    <tag k="shop" v="yes"/>
+  </node>
+  <node id="3030985152" lat="33.7254684" lon="135.4242151" version="1" timestamp="2014-08-20T23:54:20Z" changeset="24898865" uid="2275184" user="Shin594">
+    <tag k="name" v="FreeSpot"/>
+  </node>
+  <node id="3030985153" lat="33.7260996" lon="135.4237504" version="4" timestamp="2014-10-19T00:47:27Z" changeset="26182770" uid="2392489" user="kyashii">
+    <tag k="name" v="紀州梅の里なかた　本社直売店"/>
+    <tag k="name:en" v="Kishu-Ume no Sato Nakata - Head office retail shop"/>
+    <tag k="opening_hours" v="09:00-17:00"/>
+    <tag k="shop" v="yes"/>
+  </node>
+  <node id="3032266394" lat="33.7324603" lon="135.3844565" version="3" timestamp="2014-08-25T12:55:01Z" changeset="25002834" uid="2276938" user="kumachan">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="弁慶像"/>
+    <tag k="name:en" v="Benkei - statue"/>
+  </node>
+  <node id="3032525637" lat="33.7324317" lon="135.3755854" version="5" timestamp="2014-12-06T06:42:50Z" changeset="27283768" uid="2145198" user="h_oza">
+    <tag k="amenity" v="yes"/>
+    <tag k="name" v="中部公民館"/>
+    <tag k="name:en" v="Chubu Community Center"/>
+  </node>
+  <node id="3032525638" lat="33.7321439" lon="135.3763015" version="5" timestamp="2014-12-06T06:42:50Z" changeset="27283768" uid="2145198" user="h_oza">
+    <tag k="building" v="school"/>
+    <tag k="name" v="田辺第一小学校"/>
+    <tag k="name:en" v="Tanabe Dai-ichi Elementary School"/>
+  </node>
+  <node id="3032586651" lat="33.7342766" lon="135.3696719" version="1" timestamp="2014-08-21T14:53:58Z" changeset="24911230" uid="2276938" user="kumachan">
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="name" v="出立王子跡"/>
+    <tag k="religion" v="shinto"/>
+  </node>
+  <node id="3032668891" lat="33.7341145" lon="135.3653902" version="1" timestamp="2014-08-21T15:26:38Z" changeset="24911976" uid="2276938" user="kumachan">
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="name" v="西八王子宮"/>
+    <tag k="religion" v="shinto"/>
+  </node>
+  <node id="3032668892" lat="33.7336223" lon="135.3654426" version="1" timestamp="2014-08-21T15:26:38Z" changeset="24911976" uid="2276938" user="kumachan">
+    <tag k="landuse" v="residential"/>
+    <tag k="name" v="植芝盛平翁生誕地"/>
+  </node>
+  <node id="3032817704" lat="33.7330905" lon="135.3807406" version="4" timestamp="2015-04-30T03:31:45Z" changeset="30645068" uid="152289" user="cgu66">
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="name" v="蟻通神社"/>
+    <tag k="name:en" v="Aritoshi Jinja Shrine"/>
+    <tag k="religion" v="shinto"/>
+  </node>
+  <node id="3032817995" lat="33.7325810" lon="135.3804577" version="2" timestamp="2014-10-11T12:06:20Z" changeset="26002485" uid="2392489" user="kyashii">
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="denomination" v="臨済宗"/>
+    <tag k="name" v="海蔵寺（Kaizoji)"/>
+    <tag k="name:en" v="Kaizo-ji Temple"/>
+    <tag k="religion" v="buddhist"/>
+  </node>
+  <node id="3034777936" lat="33.7027830" lon="135.3758678" version="1" timestamp="2014-08-22T14:15:56Z" changeset="24933297" uid="2276938" user="kumachan">
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="name" v="神島神社"/>
+    <tag k="religion" v="shinto"/>
+  </node>
+  <node id="3034777937" lat="33.7033037" lon="135.3757951" version="1" timestamp="2014-08-22T14:15:56Z" changeset="24933297" uid="2276938" user="kumachan">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="神島歌碑（南方熊楠自筆自詠）"/>
+  </node>
+  <node id="3034806632" lat="33.7245845" lon="135.3899051" version="1" timestamp="2014-08-22T14:24:02Z" changeset="24933493" uid="2276938" user="kumachan">
+    <tag k="building" v="school"/>
+    <tag k="name" v="県立田辺中学校"/>
+  </node>
+  <node id="3035471584" lat="33.7042010" lon="135.3760617" version="3" timestamp="2014-08-25T15:15:46Z" changeset="25006207" uid="2276938" user="kumachan">
+    <tag k="historic" v="natural_monument"/>
+    <tag k="name" v="神島（天然記念物、上陸禁止）"/>
+  </node>
+  <node id="3036963158" lat="33.7320942" lon="135.3795842" version="2" timestamp="2014-10-11T12:06:19Z" changeset="26002485" uid="2392489" user="kyashii">
+    <tag k="name" v="みす屋呉服店"/>
+    <tag k="name:en" v="Misuya Kimono Shop"/>
+    <tag k="shop" v="clothes"/>
+  </node>
+  <node id="3039164521" lat="33.7256194" lon="135.3781991" version="2" timestamp="2014-09-08T02:40:40Z" changeset="25298703" uid="2276938" user="kumachan">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="合気道の創始者・植芝盛平翁像"/>
+    <tag k="name:en" v="Morihei Ueshiba, founder of Aikido statue"/>
+  </node>
+  <node id="3039183558" lat="33.7310829" lon="135.3849189" version="1" timestamp="2014-08-24T12:23:36Z" changeset="24977512" uid="2286206" user="kyashiis">
+    <tag k="name" v="国際英語村EVI (有）"/>
+    <tag k="name:en" v="English Village International - English Conversation School"/>
+  </node>
+  <node id="3039205177" lat="33.7338400" lon="135.3816217" version="2" timestamp="2014-08-24T12:35:48Z" changeset="24977760" uid="2286206" user="kyashiis">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="Japanese_-_fusion"/>
+    <tag k="name" v="楽市楽座"/>
+    <tag k="name:en" v="Rakuichi Rakuza"/>
+  </node>
+  <node id="3039220287" lat="33.7339002" lon="135.3817123" version="1" timestamp="2014-08-24T12:35:32Z" changeset="24977750" uid="2286206" user="kyashiis">
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Cresent"/>
+    <tag k="name:en" v="Cresent"/>
+    <tag k="smoking" v="separated"/>
+  </node>
+  <node id="3041434164" lat="33.7266972" lon="135.3536781" version="1" timestamp="2014-08-25T14:20:08Z" changeset="25004819" uid="2276938" user="kumachan">
+    <tag k="leisure" v="park"/>
+    <tag k="name" v="天神崎"/>
+  </node>
+  <node id="3045582722" lat="33.7288081" lon="135.3821996" version="1" timestamp="2014-08-27T11:50:40Z" changeset="25049880" uid="378532" user="nyampire">
+    <tag k="name" v="ケーキの幸屋"/>
+    <tag k="name:en" v="Sachiya Cake shop"/>
+    <tag k="shop" v="confectionery"/>
+  </node>
+  <node id="3051287027" lat="33.7295287" lon="135.3893563" version="2" timestamp="2014-09-08T14:02:55Z" changeset="25308090" uid="2276938" user="kumachan">
+    <tag k="branch" v="オーシティ田辺店"/>
+    <tag k="name" v="眼鏡市場"/>
+    <tag k="name:en" v="Megane Ichiba"/>
+    <tag k="phone" v="0739-33-7628"/>
+    <tag k="shop" v="optician"/>
+    <tag k="source" v="http://www.meganeichiba.jp/shopinfo/"/>
+    <tag k="website" v="http://www.meganeichiba.jp/"/>
+  </node>
+  <node id="3066694846" lat="33.7293271" lon="135.3887878" version="2" timestamp="2014-10-16T12:16:44Z" changeset="26116491" uid="2392489" user="kyashii">
+    <tag k="name" v="紀伊田辺シティプラザホテル"/>
+    <tag k="name:en" v="Kii Tanabe City Plaza Hotel"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="3066694847" lat="33.7290098" lon="135.3889989" version="2" timestamp="2014-10-16T12:16:44Z" changeset="26116491" uid="2392489" user="kyashii">
+    <tag k="building" v="retail"/>
+    <tag k="name" v="オーシティ"/>
+    <tag k="name:en" v="O-City (Department store)"/>
+  </node>
+  <node id="3120516354" lat="33.7321827" lon="135.3794187" version="1" timestamp="2014-10-09T13:01:03Z" changeset="25960477" uid="2277722" user="TAK360">
+    <tag k="addr:city" v="田辺市"/>
+    <tag k="addr:housenumber" v="134"/>
+    <tag k="addr:street" v="南新町"/>
+    <tag k="amenity" v="cafe"/>
+    <tag k="cuisine" v="喫茶店"/>
+    <tag k="name" v="喫茶「ゴリラ」"/>
+    <tag k="name:en" v="COFFEE HOUSE 「GORILA」"/>
+  </node>
+  <node id="3123433729" lat="33.7273610" lon="135.3776970" version="2" timestamp="2014-10-11T12:19:57Z" changeset="26002708" uid="2392489" user="kyashii">
+    <tag k="name" v="田辺市商工会議所"/>
+    <tag k="name:en" v="Tanabe Chamber of Commerce"/>
+  </node>
+  <node id="3123435629" lat="33.7272917" lon="135.3780405" version="2" timestamp="2014-10-11T12:19:57Z" changeset="26002708" uid="2392489" user="kyashii">
+    <tag k="addr:housenumber" v="001"/>
+    <tag k="name" v="田辺市商工会議所"/>
+    <tag k="name:en" v="Tanabe Chamber of Commerce"/>
+  </node>
+  <node id="3123441729" lat="33.7289042" lon="135.3753410" version="3" timestamp="2014-10-11T14:40:28Z" changeset="26005224" uid="2276938" user="kumachan">
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="name" v="田辺教会"/>
+    <tag k="name:en" v="Tanabe Catholic Church"/>
+    <tag k="religion" v="christian"/>
+  </node>
+  <node id="3123442629" lat="33.7302540" lon="135.3727070" version="2" timestamp="2014-10-11T11:45:05Z" changeset="26002142" uid="2392489" user="kyashii">
+    <tag k="name" v="田辺城水門跡"/>
+    <tag k="name:en" v="Tanabe Castle Waterworks Gate Ruins"/>
+  </node>
+  <node id="3123444129" lat="33.7306770" lon="135.3726890" version="3" timestamp="2014-10-11T12:06:19Z" changeset="26002485" uid="2392489" user="kyashii">
+    <tag k="covered" v="yes"/>
+    <tag k="name" v="田辺城水門跡"/>
+    <tag k="name:en" v="Tanabe Castle Waterworks Gate Ruins"/>
+  </node>
+  <node id="3123445529" lat="33.7325219" lon="135.3798244" version="2" timestamp="2015-03-15T02:02:22Z" changeset="29484414" uid="2758916" user="medaka">
+    <tag k="name" v="熔接工場"/>
+  </node>
+  <node id="3123445530" lat="33.7320610" lon="135.3740720" version="1" timestamp="2014-10-11T05:57:44Z" changeset="25996867" uid="2392221" user="Kazu23">
+    <tag k="name" v="田辺新地"/>
+  </node>
+  <node id="3123447429" lat="33.7328820" lon="135.3749840" version="1" timestamp="2014-10-11T05:46:23Z" changeset="25996764" uid="2392221" user="Kazu23">
+    <tag k="name" v="海抜標識"/>
+  </node>
+  <node id="3123447729" lat="33.7324710" lon="135.3748960" version="1" timestamp="2014-10-11T05:47:38Z" changeset="25996774" uid="2392221" user="Kazu23">
+    <tag k="name" v="町家"/>
+  </node>
+  <node id="3123448029" lat="33.7324520" lon="135.3741360" version="1" timestamp="2014-10-11T05:48:59Z" changeset="25996783" uid="2392221" user="Kazu23">
+    <tag k="name" v="海抜標識"/>
+  </node>
+  <node id="3123451029" lat="33.7320610" lon="135.3740720" version="1" timestamp="2014-10-11T05:53:22Z" changeset="25996825" uid="2392221" user="Kazu23">
+    <tag k="name" v="海抜標識"/>
+  </node>
+  <node id="3123462029" lat="33.7309000" lon="135.3755320" version="1" timestamp="2014-10-11T06:22:38Z" changeset="25997049" uid="359289" user="nissyyu">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="RaRa Locale"/>
+  </node>
+  <node id="3123478516" lat="33.7300565" lon="135.3744968" version="3" timestamp="2015-03-15T02:01:48Z" changeset="29484405" uid="657356" user="mori_mori">
+    <tag k="amenity" v="doctors"/>
+    <tag k="ele" v="4.5"/>
+    <tag k="name" v="辻医院"/>
+    <tag k="name:en" v="Tsuji Hospital"/>
+    <tag k="source" v="標高：地理院地図"/>
+  </node>
+  <node id="3123697959" lat="33.7337203" lon="135.3815512" version="2" timestamp="2014-10-11T12:19:57Z" changeset="26002708" uid="2392489" user="kyashii">
+    <tag k="addr:city" v="田辺市 (Tanabe)"/>
+    <tag k="addr:housenumber" v="湊1159-8　2F"/>
+    <tag k="addr:street" v="味光路"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="居酒屋"/>
+    <tag k="name" v="なかのや"/>
+    <tag k="name:en" v="Nakanoya"/>
+    <tag k="note" v="火曜定休 Closed Tuesday, tavern"/>
+    <tag k="opening_hours" v="17:00～24:00"/>
+  </node>
+  <node id="3123710011" lat="33.7329492" lon="135.3831371" version="2" timestamp="2014-10-28T08:26:59Z" changeset="26382176" uid="2277417" user="s-nakayama ATC">
+    <tag k="addr:city" v="田辺市 (Tanabe)"/>
+    <tag k="addr:housenumber" v="湊999"/>
+    <tag k="addr:street" v="味光路"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="cuisine" v="居酒屋"/>
+    <tag k="name" v="恋々"/>
+    <tag k="note" v="月曜定休"/>
+    <tag k="opening_hours" v="16:30～23:00"/>
+  </node>
+  <node id="3123713864" lat="33.7329779" lon="135.3831656" version="2" timestamp="2014-10-28T08:26:59Z" changeset="26382176" uid="2277417" user="s-nakayama ATC">
+    <tag k="addr:city" v="田辺市 (Tanabe)"/>
+    <tag k="addr:housenumber" v="湊999"/>
+    <tag k="addr:street" v="味光路"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="cuisine" v="お好み焼きと緬と焼酎のお店"/>
+    <tag k="name" v="わさび"/>
+  </node>
+  <node id="3123720867" lat="33.7333988" lon="135.3830233" version="2" timestamp="2014-10-16T12:00:03Z" changeset="26116160" uid="2392489" user="kyashii">
+    <tag k="addr:city" v="田辺市 (Tanabe)"/>
+    <tag k="addr:housenumber" v="湊960-15"/>
+    <tag k="addr:street" v="田辺市駅前新通り商店街"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="japanese"/>
+    <tag k="name" v="緬・寿司・食べ処　一吉"/>
+    <tag k="name:en" v="Noodles - sushi - restaurant Ichiyoshi"/>
+  </node>
+  <node id="3123726785" lat="33.7327734" lon="135.3821452" version="1" timestamp="2014-10-11T10:38:43Z" changeset="26001069" uid="2277417" user="s-nakayama ATC">
+    <tag k="addr:city" v="田辺市 (Tanabe)"/>
+    <tag k="addr:housenumber" v="湊1006-3"/>
+    <tag k="addr:street" v="味光路"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="焼肉"/>
+    <tag k="name" v="壱徳"/>
+    <tag k="opening_hours" v="17:30～"/>
+    <tag k="phone" v="0739-33-7116"/>
+  </node>
+  <node id="3124094631" lat="33.7287939" lon="135.3754620" version="1" timestamp="2014-10-11T14:40:28Z" changeset="26005224" uid="2276938" user="kumachan">
+    <tag k="historic" v="yes"/>
+    <tag k="name" v="台場跡"/>
+  </node>
+  <node id="3124158940" lat="33.7328066" lon="135.3766789" version="1" timestamp="2014-10-11T15:16:24Z" changeset="26006065" uid="2276938" user="kumachan">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="弁慶松記念碑"/>
+  </node>
+  <node id="3124177686" lat="33.7321496" lon="135.3768406" version="2" timestamp="2014-11-01T12:35:12Z" changeset="26480678" uid="2276938" user="kumachan">
+    <tag k="historic" v="yes"/>
+    <tag k="name" v="弁慶の腰掛石"/>
+  </node>
+  <node id="3128888422" lat="33.7293273" lon="135.3774386" version="1" timestamp="2014-10-14T08:09:31Z" changeset="26066457" uid="2276938" user="kumachan">
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="name" v="小祠"/>
+  </node>
+  <node id="3129377495" lat="33.7304045" lon="135.3815244" version="2" timestamp="2014-12-06T05:51:18Z" changeset="27283353" uid="359289" user="nissyyu">
+    <tag k="name" v="味三昧"/>
+    <tag k="shop" v="deli"/>
+  </node>
+  <node id="3131267087" lat="33.7298634" lon="135.3835887" version="1" timestamp="2014-10-15T14:52:13Z" changeset="26097689" uid="2276938" user="kumachan">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="競馬記念碑"/>
+  </node>
+  <node id="3131267088" lat="33.7301017" lon="135.3838403" version="1" timestamp="2014-10-15T14:52:13Z" changeset="26097689" uid="2276938" user="kumachan">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="淡水柏木常雄碑"/>
+  </node>
+  <node id="3131267094" lat="33.7291943" lon="135.3833701" version="1" timestamp="2014-10-15T14:52:13Z" changeset="26097689" uid="2276938" user="kumachan">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="忠魂碑"/>
+  </node>
+  <node id="3131267095" lat="33.7296702" lon="135.3841181" version="1" timestamp="2014-10-15T14:52:13Z" changeset="26097689" uid="2276938" user="kumachan">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="湛増弁慶の像"/>
+  </node>
+  <node id="3131267096" lat="33.7295876" lon="135.3841509" version="2" timestamp="2014-10-16T14:49:43Z" changeset="26120579" uid="2276938" user="kumachan">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="神馬銅像"/>
+  </node>
+  <node id="3131267114" lat="33.7295351" lon="135.3832885" version="1" timestamp="2014-10-15T14:52:13Z" changeset="26097689" uid="2276938" user="kumachan">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="野口雨情歌碑"/>
+  </node>
+  <node id="3133530962" lat="33.7299499" lon="135.3839286" version="2" timestamp="2014-11-08T05:16:13Z" changeset="26634766" uid="2392489" user="kyashii">
+    <tag k="historic" v="市指定天然記念物"/>
+    <tag k="name" v="クスノキ（御神木）"/>
+    <tag k="name:en" v="Camphor tree (sacred)"/>
+  </node>
+  <node id="3133530963" lat="33.7290000" lon="135.3828986" version="2" timestamp="2014-11-08T05:16:12Z" changeset="26634766" uid="2392489" user="kyashii">
+    <tag k="historic" v="市指定天然記念物"/>
+    <tag k="name" v="クスノキ（御神木）"/>
+    <tag k="name:en" v="Camphor tree (sacred)"/>
+  </node>
+  <node id="3153822179" lat="33.7329863" lon="135.3834627" version="1" timestamp="2014-10-28T08:26:59Z" changeset="26382176" uid="2277417" user="s-nakayama ATC">
+    <tag k="addr:city" v="田辺市 (Tanabe)"/>
+    <tag k="addr:housenumber" v="湊960-19"/>
+    <tag k="addr:postcode" v="6460031"/>
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="酒房　なにわ"/>
+    <tag k="opening_hours" v="16:00～24:00"/>
+  </node>
+  <node id="3153822180" lat="33.7329037" lon="135.3833500" version="1" timestamp="2014-10-28T08:26:59Z" changeset="26382176" uid="2277417" user="s-nakayama ATC">
+    <tag k="addr:city" v="田辺市 (Tanabe)"/>
+    <tag k="addr:housenumber" v="湊998-4"/>
+    <tag k="addr:postcode" v="6460031"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="japanese"/>
+    <tag k="name" v="手打ちうどん　新万８番地"/>
+    <tag k="opening_hours" v="11:30am～2:00pm、9:00pm～3:00am"/>
+  </node>
+  <node id="3153822181" lat="33.7328747" lon="135.3832776" version="1" timestamp="2014-10-28T08:26:59Z" changeset="26382176" uid="2277417" user="s-nakayama ATC">
+    <tag k="amenity" v="pub"/>
+    <tag k="name" v="居酒屋　まこ"/>
+  </node>
+  <node id="3158092525" lat="33.7325188" lon="135.3777639" version="1" timestamp="2014-10-30T16:34:06Z" changeset="26442042" uid="2276938" user="kumachan">
+    <tag k="name" v="カワイ音楽教室"/>
+    <tag k="shop" v="音楽教室"/>
+  </node>
+  <node id="3158092526" lat="33.7323810" lon="135.3776977" version="1" timestamp="2014-10-30T16:34:06Z" changeset="26442042" uid="2276938" user="kumachan">
+    <tag k="name" v="中田英語塾"/>
+    <tag k="shop" v="yes"/>
+  </node>
+  <node id="3162399101" lat="33.7296943" lon="135.3839502" version="1" timestamp="2014-11-02T07:07:47Z" changeset="26497122" uid="2276938" user="kumachan">
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="name" v="闘鶏神社"/>
+    <tag k="religion" v="shinto"/>
+  </node>
+  <node id="3184309902" lat="33.7321971" lon="135.3841288" version="1" timestamp="2014-11-13T10:40:37Z" changeset="26753115" uid="2277417" user="s-nakayama ATC">
+    <tag k="addr:city" v="田辺市 (Tanabe)"/>
+    <tag k="addr:housenumber" v="湊964"/>
+    <tag k="addr:street" v="弁慶通り"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="japanese"/>
+    <tag k="name" v="懐食　ＢＯＮ"/>
+  </node>
+  <node id="3184311448" lat="33.7319897" lon="135.3839196" version="1" timestamp="2014-11-13T10:42:08Z" changeset="26753148" uid="2277417" user="s-nakayama ATC">
+    <tag k="addr:city" v="田辺市 (Tanabe)"/>
+    <tag k="addr:housenumber" v="湊972-4"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="japanese"/>
+    <tag k="name" v="割烹　からかさ"/>
+  </node>
+  <node id="3184331987" lat="33.7322265" lon="135.3829224" version="1" timestamp="2014-11-13T11:01:28Z" changeset="26753487" uid="2277417" user="s-nakayama ATC">
+    <tag k="addr:city" v="田辺市 (Tanabe)"/>
+    <tag k="addr:housenumber" v="湊995"/>
+    <tag k="addr:street" v="駅前商店街のアーケード"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="ケバブ"/>
+    <tag k="name" v="ally X kebab"/>
+    <tag k="opening_hours" v="18:00～24:00　日・水休"/>
+  </node>
+  <node id="3184331993" lat="33.7328171" lon="135.3830108" version="1" timestamp="2014-11-13T11:01:28Z" changeset="26753487" uid="2277417" user="s-nakayama ATC">
+    <tag k="addr:city" v="田辺市 (Tanabe)"/>
+    <tag k="addr:housenumber" v="湊999"/>
+    <tag k="addr:street" v="味光路"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="サフィーロ（スナック）"/>
+  </node>
+  <node id="3184331994" lat="33.7327201" lon="135.3829974" version="1" timestamp="2014-11-13T11:01:28Z" changeset="26753487" uid="2277417" user="s-nakayama ATC">
+    <tag k="addr:city" v="田辺市 (Tanabe)"/>
+    <tag k="addr:housenumber" v="湊999"/>
+    <tag k="amenity" v="bar"/>
+    <tag k="name" v="Ｋ２ＢＡＲ"/>
+  </node>
+  <node id="3221131472" lat="33.7326480" lon="135.3845070" version="1" timestamp="2014-12-06T02:01:06Z" changeset="27281470" uid="2505176" user="mitwada">
+    <tag k="highway" v="bus_stop"/>
+    <tag k="name" v="Kii-Tanabe No.2"/>
+  </node>
+  <node id="3221226301" lat="33.7362190" lon="135.3718715" version="1" timestamp="2014-12-06T05:47:53Z" changeset="27283319" uid="2505176" user="mitwada">
+    <tag k="addr:city" v="田辺市"/>
+    <tag k="addr:housenumber" v="18-5"/>
+    <tag k="addr:postcode" v="646-0014"/>
+    <tag k="addr:street" v="古尾"/>
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="denomination" v="西山浄土宗"/>
+    <tag k="name" v="願成寺"/>
+    <tag k="name:en" v="ganjyoji"/>
+    <tag k="religion" v="buddhist"/>
+  </node>
+  <node id="3226298525" lat="33.7299882" lon="135.3991353" version="1" timestamp="2014-12-09T11:10:27Z" changeset="27354120" uid="2505176" user="mitwada">
+    <tag k="amenity" v="community_centre"/>
+    <tag k="name" v="ひがしコミュニティセンター"/>
+  </node>
+  <node id="3226428808" lat="33.7366221" lon="135.3573453" version="1" timestamp="2014-12-09T12:44:30Z" changeset="27355708" uid="2507266" user="su_">
+    <tag k="leisure" v="pitch"/>
+    <tag k="name" v="市民球場"/>
+    <tag k="sport" v="baseball"/>
+  </node>
+  <node id="3235677327" lat="33.7345891" lon="135.3739018" version="1" timestamp="2014-12-15T06:06:49Z" changeset="27474817" uid="2277417" user="s-nakayama ATC">
+    <tag k="addr:city" v="田辺市"/>
+    <tag k="addr:housenumber" v="紺屋町７４"/>
+    <tag k="name" v="紺屋町家"/>
+    <tag k="note" v="古民家ゲストハウス"/>
+    <tag k="operator" v="南紀みらい株式会社"/>
+    <tag k="tourism" v="hotel"/>
+  </node>
+  <node id="3275951064" lat="33.6933684" lon="135.3549386" version="1" timestamp="2015-01-08T03:26:35Z" changeset="27989521" uid="2558013" user="fukushima_nassua_co_jp">
+    <tag k="amenity" v="community_centre"/>
+    <tag k="name" v="白浜会館"/>
+  </node>
+  <node id="3275951065" lat="33.6925472" lon="135.3541393" version="1" timestamp="2015-01-08T03:26:35Z" changeset="27989521" uid="2558013" user="fukushima_nassua_co_jp">
+    <tag k="leisure" v="sports_centre"/>
+    <tag k="name" v="総合体育館"/>
+  </node>
+  <node id="3362875725" lat="33.7315613" lon="135.3677219" version="1" timestamp="2015-02-21T06:35:34Z" changeset="28992293" uid="2651787" user="bulehart">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="cuisine" v="japanease"/>
+    <tag k="name" v="はまだ"/>
+    <tag k="source" v="Bing"/>
+  </node>
+  <node id="3397781789" lat="33.7452742" lon="135.3553750" version="1" timestamp="2015-03-14T06:58:11Z" changeset="29464618" uid="2384382" user="Chiharu Nagase">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="芳養一里塚"/>
+  </node>
+  <node id="3397782949" lat="33.7402537" lon="135.3576125" version="1" timestamp="2015-03-14T07:05:11Z" changeset="29464674" uid="2384382" user="Chiharu Nagase">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="芳養八幡神社潮垢離所"/>
+  </node>
+  <node id="3397796494" lat="33.7329703" lon="135.3673796" version="1" timestamp="2015-03-14T07:18:08Z" changeset="29464794" uid="2384382" user="Chiharu Nagase">
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="潮垢離浜跡"/>
+  </node>
+  <node id="3397796514" lat="33.7340054" lon="135.3754829" version="1" timestamp="2015-03-14T07:19:40Z" changeset="29464809" uid="2384382" user="Chiharu Nagase">
+    <tag k="historic" v="yes"/>
+    <tag k="name" v="熊野古道道分け石"/>
+  </node>
+  <node id="3399003180" lat="33.7157809" lon="135.4060934" version="2" timestamp="2015-03-15T01:47:43Z" changeset="29484276" uid="2597817" user="つれもてネット">
+    <tag k="addr:city" v="田辺市新庄町１４４２"/>
+    <tag k="ele" v="3.1"/>
+    <tag k="name" v="つれもてネット南紀熊野"/>
+    <tag k="office" v="ngo"/>
+  </node>
+  <node id="3399027679" lat="33.7165251" lon="135.4077381" version="2" timestamp="2015-03-15T01:53:45Z" changeset="29484325" uid="2597817" user="つれもてネット">
+    <tag k="ele" v="25"/>
+    <tag k="name" v="２次避難集合地点"/>
+  </node>
+  <node id="3399046460" lat="33.7159550" lon="135.4064672" version="3" timestamp="2015-03-16T00:53:48Z" changeset="29507975" uid="657356" user="mori_mori">
+    <tag k="ele" v="6.9"/>
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="安政津浪の碑"/>
+  </node>
+  <node id="3399046725" lat="33.7158497" lon="135.4066389" version="3" timestamp="2015-03-16T00:53:47Z" changeset="29507975" uid="657356" user="mori_mori">
+    <tag k="ele" v="13.8"/>
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="宝永津波の碑"/>
+  </node>
+  <node id="3399058110" lat="33.7132273" lon="135.4028255" version="1" timestamp="2015-03-15T02:26:41Z" changeset="29484625" uid="2646610" user="三嶋 信史">
+    <tag k="ele" v="22"/>
+    <tag k="name" v="田辺市立新庄中学校"/>
+    <tag k="source" v="GSImaps/dem"/>
+  </node>
+  <node id="3399066173" lat="33.7182189" lon="135.4044861" version="1" timestamp="2015-03-15T02:39:52Z" changeset="29484721" uid="2597817" user="つれもてネット">
+    <tag k="ele" v="3"/>
+    <tag k="historic" v="memorial"/>
+    <tag k="name" v="南海地震津波"/>
+  </node>
+  <node id="3399298330" lat="33.7164140" lon="135.4069184" version="1" timestamp="2015-03-15T07:07:48Z" changeset="29486937" uid="2505176" user="mitwada">
+    <tag k="ele" v="8.4"/>
+    <tag k="name" v="1次避難地点"/>
+  </node>
+  <node id="3399300990" lat="33.7167794" lon="135.4067646" version="2" timestamp="2015-03-16T05:25:38Z" changeset="29509937" uid="2597817" user="つれもてネット">
+    <tag k="ele" v="10.6"/>
+    <tag k="name" v="新庄幼稚園（避難施設）"/>
+  </node>
+  <node id="3401294469" lat="33.7158269" lon="135.4068044" version="2" timestamp="2015-03-16T05:53:17Z" changeset="29510154" uid="2597817" user="つれもてネット">
+    <tag k="amenity" v="place_of_worship"/>
+    <tag k="ele" v="21"/>
+    <tag k="name" v="大潟神社"/>
+  </node>
+
+</osm>
